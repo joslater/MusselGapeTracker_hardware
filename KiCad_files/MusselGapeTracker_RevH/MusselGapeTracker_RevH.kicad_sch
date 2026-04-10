@@ -4002,7 +4002,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:MOSFET-PCHANNELBSH203"
+		(symbol "MusselGapeTracker_RevE-eagle-import:MOSFET-PCHANNELSSM3J328R"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4015,7 +4015,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "MOSFET-PCHANNELBSH203"
+			(property "Value" "MOSFET-PCHANNELSSM3J328R"
 				(at 5.08 0 0)
 				(effects
 					(font
@@ -4059,7 +4059,7 @@
 					)
 				)
 			)
-			(symbol "MOSFET-PCHANNELBSH203_1_0"
+			(symbol "MOSFET-PCHANNELSSM3J328R_1_0"
 				(polyline
 					(pts
 						(xy -3.81 0) (xy -5.08 0)
@@ -18701,6 +18701,76 @@
 		)
 	)
 	(symbol
+		(lib_id "MusselGapeTracker_RevE-eagle-import:MOSFET-PCHANNELSSM3J328R")
+		(at 353.06 417.83 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ad22191b-3e7b-4f44-9eb2-c0e96b477542")
+		(property "Reference" "Q1"
+			(at 349.504 395.478 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+			)
+		)
+		(property "Value" "MOSFET-PCHANNELSSM3J328R"
+			(at 353.314 395.478 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevE:SOT23-3"
+			(at 353.06 417.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 353.06 417.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 353.06 417.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0c74a0e4-f4d0-427d-bfb4-19f3a72fc1aa")
+		)
+		(pin "3"
+			(uuid "d6919c7e-bfa0-47e6-9a34-e6136e133e4f")
+		)
+		(pin "2"
+			(uuid "1fccab86-49a2-4ac8-9eb7-918f29d06737")
+		)
+		(instances
+			(project ""
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
 		(at 41.91 403.86 0)
 		(unit 1)
@@ -21215,77 +21285,6 @@
 			(project "MusselGapeTracker_RevH"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "HALL9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:MOSFET-PCHANNELBSH203")
-		(at 353.06 417.83 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f2fb67a2-fe28-485e-abfa-1cd5d878dec9")
-		(property "Reference" "P-FET0"
-			(at 350.52 412.75 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "MOSFET-PCHANNELBSH203"
-			(at 353.06 412.75 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:SOT23-3"
-			(at 353.06 417.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 353.06 417.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 353.06 417.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "376b5811-ae48-4080-8a49-338dbccdef11")
-		)
-		(pin "2"
-			(uuid "cb27f409-d3a5-4c41-9d11-aa0ab93185f3")
-		)
-		(pin "3"
-			(uuid "999ba172-6c61-48f3-9143-4fec001dfc69")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "P-FET0")
 					(unit 1)
 				)
 			)

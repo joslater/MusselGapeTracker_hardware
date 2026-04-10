@@ -217,6 +217,7 @@
 	(net 92 "Net-(SD1-DAT2)")
 	(net 93 "Net-(SD1-DAT1)")
 	(net 94 "unconnected-(SD1-CD_PIN-PadCARD_DETECT9)")
+	(net 95 "Net-(Q1-D)")
 	(footprint "MusselGapeTracker_RevE:SOT95P237X112-3N"
 		(layer "F.Cu")
 		(uuid "0b932a1f-5dcb-46e8-8f76-ba199cc9d811")
@@ -12144,7 +12145,6 @@
 				)
 			)
 		)
-		(path "/f2fb67a2-fe28-485e-abfa-1cd5d878dec9")
 		(sheetname "/")
 		(sheetfile "MusselGapeTracker_RevH.kicad_sch")
 		(fp_line
@@ -14076,7 +14076,7 @@
 		(layer "F.Cu")
 		(uuid "a4839b41-bcc2-4fce-86e0-c2d45f03ee3a")
 		(at 107.2874 126.3944 -90)
-		(property "Reference" "SD1 GCTMEM2052"
+		(property "Reference" "SD1"
 			(at 4.315 0.175 180)
 			(layer "F.SilkS")
 			(uuid "96267b18-4624-413a-b731-4de86a37bdcb")
@@ -16280,7 +16280,7 @@
 			(size 0.975 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 62 "Net-(P-FET0-D)")
+			(net 95 "Net-(Q1-D)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "9abf59ea-30da-412e-96c1-de9d353cfab3")
