@@ -365,7 +365,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:22-23-2021"
+		(symbol "MusselGapeTracker_RevI:22-23-2021"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -388,7 +388,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:22-23-2021"
+			(property "Footprint" "MusselGapeTracker_RevI:22-23-2021"
 				(at 0 0 0)
 				(effects
 					(font
@@ -489,7 +489,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:74HC4067SM96"
+		(symbol "MusselGapeTracker_RevI:74HC4067SM96"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -511,7 +511,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:SSOP24"
+			(property "Footprint" "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1030,7 +1030,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:74HC595D"
+		(symbol "MusselGapeTracker_RevI:74HC595D"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1052,7 +1052,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:SO16"
+			(property "Footprint" "MusselGapeTracker_RevI:SO16"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1427,7 +1427,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:ATMEGA328_SMT"
+		(symbol "MusselGapeTracker_RevI:ATMEGA328_SMT"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1449,7 +1449,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:TQFP32-08"
+			(property "Footprint" "MusselGapeTracker_RevI:TQFP32-08"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2112,7 +2112,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:AVR_SPI_PRG_6PTH"
+		(symbol "MusselGapeTracker_RevI:AVR_SPI_PRG_6PTH"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2134,7 +2134,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:2X3"
+			(property "Footprint" "MusselGapeTracker_RevI:2X3"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2383,7 +2383,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:CAP0603"
+		(symbol "MusselGapeTracker_RevI:CAP0603"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2405,7 +2405,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:0603"
+			(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2526,7 +2526,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:CPOL-USB"
+		(symbol "MusselGapeTracker_RevI:CPOL-USB"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2548,7 +2548,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:PANASONIC_B"
+			(property "Footprint" "MusselGapeTracker_RevI:PANASONIC_B"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2693,7 +2693,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:CR1220_BATTERY_HOLDERSMD"
+		(symbol "MusselGapeTracker_RevI:CR1220_BATTERY_HOLDERSMD"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2715,7 +2715,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:CR1220_BATTERY_HOLDER_SMD"
+			(property "Footprint" "MusselGapeTracker_RevI:CR1220_BATTERY_HOLDER_SMD"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2898,7 +2898,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:GND"
+		(symbol "MusselGapeTracker_RevI:GND"
 			(power)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2921,7 +2921,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:"
+			(property "Footprint" "MusselGapeTracker_RevI:"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2990,7 +2990,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:INDUCTOR0805_TY"
+		(symbol "MusselGapeTracker_RevI:INDUCTOR0805_TY"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3012,7 +3012,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:I_0805"
+			(property "Footprint" "MusselGapeTracker_RevI:I_0805"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3183,7 +3183,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT"
+		(symbol "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3205,7 +3205,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
+			(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3364,7 +3364,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:KSC1623_BJT_TRANSISTOR"
+		(symbol "MusselGapeTracker_RevI:KSC1623_BJT_TRANSISTOR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3386,7 +3386,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:SOT23"
+			(property "Footprint" "MusselGapeTracker_RevI:SOT23"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3610,7 +3610,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:LED0805"
+		(symbol "MusselGapeTracker_RevI:LED0805"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3632,7 +3632,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:CHIPLED_0805"
+			(property "Footprint" "MusselGapeTracker_RevI:CHIPLED_0805"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3839,7 +3839,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:MCP1700T-3302E/TT"
+		(symbol "MusselGapeTracker_RevI:MCP1700T-3302E/TT"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3861,7 +3861,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:SOT95P237X112-3N"
+			(property "Footprint" "MusselGapeTracker_RevI:SOT95P237X112-3N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4002,7 +4002,461 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:MOSFET-PCHANNELSSM3J328R"
+		(symbol "MusselGapeTracker_RevI:MEM2052-00-195-00-A_REVA"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -17.78 16.002 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "MEM2052-00-195-00-A_REVA"
+				(at -17.78 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "MEM2052-00-195-00-A_REVA:GCT_MEM2052-00-195-00-A_REVA"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Global Connector Technology"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "1.95 mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/MEM2052-00-195-00-A/Global+Connector+Technology/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/MEM2052-00-195-00-A/Global+Connector+Technology/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "MEM2052-00-195-00-A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=12404238&manufacturer=Global Connector Technology&part_name=MEM2052-00-195-00-A&search_term=mem2052-00-195-00-a"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "MicroSD Push push Memory Card Connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Global Connector Technology"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SNAPEDA_PN" "MEM2052-00-195-00-A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "MEM2052-00-195-00-A_REVA_0_0"
+				(rectangle
+					(start -17.78 15.24)
+					(end 3.81 -15.24)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "MEM2052-00-195-00-A_REVA_1_0"
+				(pin input clock
+					(at -22.86 10.16 0)
+					(length 5.08)
+					(name "CLK"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "SCK5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -22.86 6.35 0)
+					(length 5.08)
+					(name "CMD"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "MOSI3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -22.86 2.54 0)
+					(length 5.08)
+					(name "DAT0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "MISO7"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -22.86 0 0)
+					(length 5.08)
+					(name "DAT1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "NC8"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -22.86 -2.54 0)
+					(length 5.08)
+					(name "DAT2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "RES1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -22.86 -5.08 0)
+					(length 5.08)
+					(name "CD/DAT3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "CS2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -22.86 -11.43 0)
+					(length 5.08)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "VDD4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 8.89 8.89 180)
+					(length 5.08)
+					(name "CD_PIN"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "CARD_DETECT9"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 8.89 3.81 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "GND6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 8.89 -2.54 180)
+					(length 5.08)
+					(name "GND1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "MNT1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 8.89 -5.08 180)
+					(length 5.08)
+					(name "GND2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "MNT2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 8.89 -7.62 180)
+					(length 5.08)
+					(name "GND3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "MNT3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 8.89 -10.16 180)
+					(length 5.08)
+					(name "GND4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "MNT4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(symbol "MEM2052-00-195-00-A_REVA_1_1"
+				(text "SD & MMC"
+					(at -8.636 -9.144 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MusselGapeTracker_RevI:MOSFET-PCHANNELSSM3J328R"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4024,7 +4478,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:SOT23-3"
+			(property "Footprint" "MusselGapeTracker_RevI:SOT23-3"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4511,7 +4965,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:PINHD-1X1SMALL"
+		(symbol "MusselGapeTracker_RevI:PINHD-1X1SMALL"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4533,7 +4987,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:1X01_SMALL"
+			(property "Footprint" "MusselGapeTracker_RevI:1X01_SMALL"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4590,7 +5044,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:PINHD-1X4LOCK"
+		(symbol "MusselGapeTracker_RevI:PINHD-1X4LOCK"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4612,7 +5066,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:1X04_LOCK"
+			(property "Footprint" "MusselGapeTracker_RevI:1X04_LOCK"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4771,7 +5225,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:PINHD-1X6RA"
+		(symbol "MusselGapeTracker_RevI:PINHD-1X6RA"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4793,7 +5247,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:1X06-RIGHT_ANGLE"
+			(property "Footprint" "MusselGapeTracker_RevI:1X06-RIGHT_ANGLE"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4988,7 +5442,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:POWER_JACK_2,1MM"
+		(symbol "MusselGapeTracker_RevI:POWER_JACK_2,1MM"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -5010,7 +5464,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:POWER_JACK_DC_2,1MM"
+			(property "Footprint" "MusselGapeTracker_RevI:POWER_JACK_DC_2,1MM"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5186,7 +5640,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:PUSHBUTTON_DPST_SMDSMALL"
+		(symbol "MusselGapeTracker_RevI:PUSHBUTTON_DPST_SMDSMALL"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -5208,7 +5662,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:PUSHBUTTON_SPST_PTS525_SERIES"
+			(property "Footprint" "MusselGapeTracker_RevI:PUSHBUTTON_SPST_PTS525_SERIES"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5473,7 +5927,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:PUSHBUTTON_DPST_SMDSTANDARD"
+		(symbol "MusselGapeTracker_RevI:PUSHBUTTON_DPST_SMDSTANDARD"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -5495,7 +5949,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:PUSHBUTTON_DPST_SMD"
+			(property "Footprint" "MusselGapeTracker_RevI:PUSHBUTTON_DPST_SMD"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5760,7 +6214,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603"
+		(symbol "MusselGapeTracker_RevI:RESISTOR_SMDR0603"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -5782,7 +6236,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:R0603"
+			(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5965,7 +6419,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:SOLDER_JUMPER_TRACESTANDARD"
+		(symbol "MusselGapeTracker_RevI:SOLDER_JUMPER_TRACESTANDARD"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -5987,7 +6441,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:SJ_2S-TRACE"
+			(property "Footprint" "MusselGapeTracker_RevI:SJ_2S-TRACE"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6144,7 +6598,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:STAND-OFF4-40"
+		(symbol "MusselGapeTracker_RevI:STAND-OFF4-40"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -6166,7 +6620,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:STAND-OFF"
+			(property "Footprint" "MusselGapeTracker_RevI:STAND-OFF"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6216,7 +6670,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:STAND-OFFM2"
+		(symbol "MusselGapeTracker_RevI:STAND-OFFM2"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -6238,7 +6692,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:STAND-OFF_M2"
+			(property "Footprint" "MusselGapeTracker_RevI:STAND-OFF_M2"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6288,7 +6742,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MusselGapeTracker_RevE-eagle-import:VCC"
+		(symbol "MusselGapeTracker_RevI:VCC"
 			(power)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -6311,7 +6765,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MusselGapeTracker_RevE:"
+			(property "Footprint" "MusselGapeTracker_RevI:"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6386,460 +6840,6 @@
 							(font
 								(size 0 0)
 							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "MusselGapeTracker_RevH-SlaterSymbols:MEM2052-00-195-00-A_REVA"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at -17.78 16.002 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "MEM2052-00-195-00-A_REVA"
-				(at -17.78 -17.78 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "MEM2052-00-195-00-A_REVA:GCT_MEM2052-00-195-00-A_REVA"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Global Connector Technology"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "1.95 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/MEM2052-00-195-00-A/Global+Connector+Technology/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/MEM2052-00-195-00-A/Global+Connector+Technology/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "MEM2052-00-195-00-A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=12404238&manufacturer=Global Connector Technology&part_name=MEM2052-00-195-00-A&search_term=mem2052-00-195-00-a"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "MicroSD Push push Memory Card Connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Global Connector Technology"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PN" "MEM2052-00-195-00-A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "MEM2052-00-195-00-A_REVA_0_0"
-				(rectangle
-					(start -17.78 15.24)
-					(end 3.81 -15.24)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "MEM2052-00-195-00-A_REVA_1_0"
-				(pin input clock
-					(at -22.86 10.16 0)
-					(length 5.08)
-					(name "CLK"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "SCK5"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -22.86 6.35 0)
-					(length 5.08)
-					(name "CMD"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "MOSI3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -22.86 2.54 0)
-					(length 5.08)
-					(name "DAT0"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "MISO7"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -22.86 0 0)
-					(length 5.08)
-					(name "DAT1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "NC8"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -22.86 -2.54 0)
-					(length 5.08)
-					(name "DAT2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "RES1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -22.86 -5.08 0)
-					(length 5.08)
-					(name "CD/DAT3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "CS2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -22.86 -11.43 0)
-					(length 5.08)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "VDD4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 8.89 8.89 180)
-					(length 5.08)
-					(name "CD_PIN"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "CARD_DETECT9"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 8.89 3.81 180)
-					(length 5.08)
-					(name "VSS"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "GND6"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 8.89 -2.54 180)
-					(length 5.08)
-					(name "GND1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "MNT1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 8.89 -5.08 180)
-					(length 5.08)
-					(name "GND2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "MNT2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 8.89 -7.62 180)
-					(length 5.08)
-					(name "GND3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "MNT3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 8.89 -10.16 180)
-					(length 5.08)
-					(name "GND4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "MNT4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(symbol "MEM2052-00-195-00-A_REVA_1_1"
-				(text "SD & MMC"
-					(at -8.636 -9.144 0)
-					(effects
-						(font
-							(size 1.27 1.27)
 						)
 					)
 				)
@@ -13390,7 +13390,7 @@
 		(uuid "fedba2e3-9397-4b6a-9fc6-9b0880933aac")
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
+		(lib_id "MusselGapeTracker_RevI:GND")
 		(at 31.75 383.54 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13416,7 +13416,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 31.75 383.54 0)
 			(effects
 				(font
@@ -13446,7 +13446,7 @@
 			(uuid "12d80749-1d08-4b20-bcb7-cdc0c045e3c2")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#GND01")
 					(unit 1)
@@ -13455,7 +13455,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:CAP0603")
+		(lib_id "MusselGapeTracker_RevI:CAP0603")
 		(at 49.53 375.92 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13514,7 +13514,7 @@
 			(uuid "808f8ec7-5ac2-4f4a-b07f-f8735c9280c8")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "C5")
 					(unit 1)
@@ -13523,7 +13523,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PINHD-1X1SMALL")
+		(lib_id "MusselGapeTracker_RevI:PINHD-1X1SMALL")
 		(at 287.02 271.78 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13549,7 +13549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:1X01_SMALL"
+		(property "Footprint" "MusselGapeTracker_RevI:1X01_SMALL"
 			(at 287.02 271.78 0)
 			(effects
 				(font
@@ -13579,7 +13579,7 @@
 			(uuid "e7c0fd2b-6626-44c4-bdfb-d2266cc266ca")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "U$4")
 					(unit 1)
@@ -13588,7 +13588,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PINHD-1X1SMALL")
+		(lib_id "MusselGapeTracker_RevI:PINHD-1X1SMALL")
 		(at 287.02 274.32 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13614,7 +13614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:1X01_SMALL"
+		(property "Footprint" "MusselGapeTracker_RevI:1X01_SMALL"
 			(at 287.02 274.32 0)
 			(effects
 				(font
@@ -13644,7 +13644,7 @@
 			(uuid "71768e2a-6c7c-4145-ac41-8aaeb775d587")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "GND0")
 					(unit 1)
@@ -13653,7 +13653,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
 		(at 217.17 256.54 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13679,7 +13679,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
 			(at 217.17 256.54 0)
 			(effects
 				(font
@@ -13718,7 +13718,7 @@
 			(uuid "6174b507-6b44-41ba-9dc8-6b0982c7e10f")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "HALL14")
 					(unit 1)
@@ -13727,7 +13727,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
 		(at 120.65 368.3 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13786,7 +13786,7 @@
 			(uuid "64bee7a4-71cf-4f8f-9f22-2771dae64694")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "R8")
 					(unit 1)
@@ -13795,7 +13795,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:CAP0603")
+		(lib_id "MusselGapeTracker_RevI:CAP0603")
 		(at 433.07 441.96 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13854,7 +13854,7 @@
 			(uuid "2e2a11de-10ad-4fb3-9caa-9ac250c9485b")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "C6")
 					(unit 1)
@@ -13863,7 +13863,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:LED0805")
+		(lib_id "MusselGapeTracker_RevI:LED0805")
 		(at 17.78 302.26 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13889,7 +13889,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:CHIPLED_0805"
+		(property "Footprint" "MusselGapeTracker_RevI:CHIPLED_0805"
 			(at 17.78 302.26 0)
 			(effects
 				(font
@@ -13922,7 +13922,7 @@
 			(uuid "898e565e-e4cd-43e2-8ed6-b0957aa36cac")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "LED1")
 					(unit 1)
@@ -13931,7 +13931,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
 		(at 140.97 377.19 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13990,7 +13990,7 @@
 			(uuid "d64ea03e-fdc8-4a32-8903-5f8bba4824e1")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "R15")
 					(unit 1)
@@ -13999,7 +13999,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
+		(lib_id "MusselGapeTracker_RevI:GND")
 		(at 143.51 402.59 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14025,7 +14025,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 143.51 402.59 0)
 			(effects
 				(font
@@ -14055,7 +14055,7 @@
 			(uuid "7f26492e-98a4-4ad4-a807-fe84dbf57de8")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#GND010")
 					(unit 1)
@@ -14064,7 +14064,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:STAND-OFFM2")
+		(lib_id "MusselGapeTracker_RevI:STAND-OFFM2")
 		(at 284.48 247.65 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14090,7 +14090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:STAND-OFF_M2"
+		(property "Footprint" "MusselGapeTracker_RevI:STAND-OFF_M2"
 			(at 284.48 247.65 0)
 			(effects
 				(font
@@ -14117,7 +14117,7 @@
 			)
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "STANDOFF4_M2")
 					(unit 1)
@@ -14126,7 +14126,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PINHD-1X1SMALL")
+		(lib_id "MusselGapeTracker_RevI:PINHD-1X1SMALL")
 		(at 67.31 426.72 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14152,7 +14152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:1X01_SMALL"
+		(property "Footprint" "MusselGapeTracker_RevI:1X01_SMALL"
 			(at 67.31 426.72 0)
 			(effects
 				(font
@@ -14182,7 +14182,7 @@
 			(uuid "cf33adfb-35fa-4fb3-bfdb-0f2895f9c1dd")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "U$11")
 					(unit 1)
@@ -14191,7 +14191,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
 		(at 30.48 302.26 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14250,7 +14250,7 @@
 			(uuid "b1de9245-3044-45a5-82cf-6af3bc103e90")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "R1")
 					(unit 1)
@@ -14259,7 +14259,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
 		(at 153.67 256.54 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14285,7 +14285,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
 			(at 153.67 256.54 0)
 			(effects
 				(font
@@ -14324,7 +14324,7 @@
 			(uuid "9c585742-9384-4e0a-9045-74cf05f15600")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "HALL12")
 					(unit 1)
@@ -14333,7 +14333,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
+		(lib_id "MusselGapeTracker_RevI:GND")
 		(at 157.48 440.69 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14359,7 +14359,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 157.48 440.69 0)
 			(effects
 				(font
@@ -14389,7 +14389,7 @@
 			(uuid "ee26139b-963f-46c7-9055-c0b80d85442f")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#GND07")
 					(unit 1)
@@ -14398,7 +14398,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
+		(lib_id "MusselGapeTracker_RevI:GND")
 		(at 257.81 311.15 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14424,7 +14424,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 257.81 311.15 0)
 			(effects
 				(font
@@ -14454,7 +14454,7 @@
 			(uuid "64b11346-3efb-4227-b93f-b926584f9771")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#GND06")
 					(unit 1)
@@ -14463,7 +14463,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PUSHBUTTON_DPST_SMDSMALL")
+		(lib_id "MusselGapeTracker_RevI:PUSHBUTTON_DPST_SMDSMALL")
 		(at 39.37 381 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14489,7 +14489,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:PUSHBUTTON_SPST_PTS525_SERIES"
+		(property "Footprint" "MusselGapeTracker_RevI:PUSHBUTTON_SPST_PTS525_SERIES"
 			(at 39.37 381 0)
 			(effects
 				(font
@@ -14528,7 +14528,7 @@
 			(uuid "62bbfd63-7bcb-4e8c-89f2-d1fda9c93cc4")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "RESET0")
 					(unit 1)
@@ -14537,7 +14537,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PUSHBUTTON_DPST_SMDSTANDARD")
+		(lib_id "MusselGapeTracker_RevI:PUSHBUTTON_DPST_SMDSTANDARD")
 		(at 245.11 323.85 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14563,7 +14563,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:PUSHBUTTON_DPST_SMD"
+		(property "Footprint" "MusselGapeTracker_RevI:PUSHBUTTON_DPST_SMD"
 			(at 245.11 323.85 0)
 			(effects
 				(font
@@ -14602,7 +14602,7 @@
 			(uuid "50c78ee2-dc6a-4b9b-9b41-4e2f0aafeb6c")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "BUTTON2")
 					(unit 1)
@@ -14611,7 +14611,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PINHD-1X1SMALL")
+		(lib_id "MusselGapeTracker_RevI:PINHD-1X1SMALL")
 		(at 287.02 266.7 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14637,7 +14637,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:1X01_SMALL"
+		(property "Footprint" "MusselGapeTracker_RevI:1X01_SMALL"
 			(at 287.02 266.7 0)
 			(effects
 				(font
@@ -14667,7 +14667,7 @@
 			(uuid "4fc6fb18-de56-4c8e-b270-8a248ecf5e93")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "U$10")
 					(unit 1)
@@ -14676,7 +14676,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
 		(at 330.2 445.77 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14735,7 +14735,7 @@
 			(uuid "03ac8d71-df69-43c6-8308-c85080849f4c")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "R32")
 					(unit 1)
@@ -14744,7 +14744,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
 		(at 64.77 364.49 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14803,7 +14803,7 @@
 			(uuid "25e6229d-a073-4c38-96db-922fe4136c98")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "R6")
 					(unit 1)
@@ -14812,7 +14812,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
+		(lib_id "MusselGapeTracker_RevI:GND")
 		(at 171.45 392.43 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14838,7 +14838,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 171.45 392.43 0)
 			(effects
 				(font
@@ -14868,7 +14868,7 @@
 			(uuid "5200ac96-dbaa-4736-8a3c-0cc639d39b2f")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#GND04")
 					(unit 1)
@@ -14877,7 +14877,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:VCC")
+		(lib_id "MusselGapeTracker_RevI:VCC")
 		(at 125.73 354.33 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14903,7 +14903,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 125.73 354.33 0)
 			(effects
 				(font
@@ -14933,7 +14933,7 @@
 			(uuid "f1a97ac7-a502-4dfa-b330-12fef8e194f8")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#SUPPLY05")
 					(unit 1)
@@ -14942,7 +14942,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:CPOL-USB")
+		(lib_id "MusselGapeTracker_RevI:CPOL-USB")
 		(at 157.48 430.53 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14968,7 +14968,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:PANASONIC_B"
+		(property "Footprint" "MusselGapeTracker_RevI:PANASONIC_B"
 			(at 157.48 430.53 0)
 			(effects
 				(font
@@ -15001,7 +15001,7 @@
 			(uuid "a706ca9e-a040-4ea8-85a2-d15ed1b54723")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "C1")
 					(unit 1)
@@ -15010,7 +15010,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:CR1220_BATTERY_HOLDERSMD")
+		(lib_id "MusselGapeTracker_RevI:CR1220_BATTERY_HOLDERSMD")
 		(at 271.78 396.24 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15036,7 +15036,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:CR1220_BATTERY_HOLDER_SMD"
+		(property "Footprint" "MusselGapeTracker_RevI:CR1220_BATTERY_HOLDER_SMD"
 			(at 271.78 396.24 0)
 			(effects
 				(font
@@ -15072,7 +15072,7 @@
 			(uuid "f7f36283-b067-4b98-840d-4c7125e20e8a")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "CR1220_BATTERY0")
 					(unit 1)
@@ -15081,7 +15081,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:SOLDER_JUMPER_TRACESTANDARD")
+		(lib_id "MusselGapeTracker_RevI:SOLDER_JUMPER_TRACESTANDARD")
 		(at 52.07 434.34 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15107,7 +15107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:SJ_2S-TRACE"
+		(property "Footprint" "MusselGapeTracker_RevI:SJ_2S-TRACE"
 			(at 52.07 434.34 0)
 			(effects
 				(font
@@ -15140,7 +15140,7 @@
 			(uuid "98b2372e-4076-485e-bdb6-36b6903cd1a2")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "GROUND_CON0")
 					(unit 1)
@@ -15149,7 +15149,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
 		(at 157.48 353.06 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15208,7 +15208,7 @@
 			(uuid "2adc8a5f-269a-4619-abfa-10ead9351071")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "R4")
 					(unit 1)
@@ -15217,7 +15217,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PINHD-1X1SMALL")
+		(lib_id "MusselGapeTracker_RevI:PINHD-1X1SMALL")
 		(at 234.95 316.23 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15243,7 +15243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:1X01_SMALL"
+		(property "Footprint" "MusselGapeTracker_RevI:1X01_SMALL"
 			(at 234.95 316.23 0)
 			(effects
 				(font
@@ -15273,7 +15273,7 @@
 			(uuid "6d45387b-b7ed-4b02-9a97-dfa65e829f15")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "U$8")
 					(unit 1)
@@ -15282,7 +15282,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
+		(lib_id "MusselGapeTracker_RevI:GND")
 		(at 64.77 447.04 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15308,7 +15308,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 64.77 447.04 0)
 			(effects
 				(font
@@ -15338,7 +15338,7 @@
 			(uuid "954d249c-b81a-45f5-b282-e8009ecb16fc")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#GND03")
 					(unit 1)
@@ -15347,7 +15347,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
 		(at 135.89 368.3 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15406,7 +15406,7 @@
 			(uuid "f9d26194-b694-464b-9a04-4624b5d46f92")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "R14")
 					(unit 1)
@@ -15415,7 +15415,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
+		(lib_id "MusselGapeTracker_RevI:GND")
 		(at 330.2 455.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15441,7 +15441,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 330.2 455.93 0)
 			(effects
 				(font
@@ -15471,7 +15471,7 @@
 			(uuid "d81b176b-41c4-46fe-aae3-5251824a5b53")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#GND014")
 					(unit 1)
@@ -15480,7 +15480,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
 		(at 335.28 438.15 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15539,7 +15539,7 @@
 			(uuid "e27b7112-7e6c-4029-a4d7-e4fa64797844")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "R31")
 					(unit 1)
@@ -15548,7 +15548,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
 		(at 184.15 276.86 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15574,7 +15574,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
 			(at 184.15 276.86 0)
 			(effects
 				(font
@@ -15613,7 +15613,7 @@
 			(uuid "3414fc7d-4f11-4cc6-b592-df73686976c1")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "HALL5")
 					(unit 1)
@@ -15622,7 +15622,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
 		(at 118.11 276.86 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15648,7 +15648,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
 			(at 118.11 276.86 0)
 			(effects
 				(font
@@ -15687,7 +15687,7 @@
 			(uuid "bc2ad1e0-0fbd-496d-ab18-e9b379375231")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "HALL3")
 					(unit 1)
@@ -15696,7 +15696,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
 		(at 342.9 417.83 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15755,7 +15755,7 @@
 			(uuid "124a60f4-a446-467d-8fc0-d6b1760fad45")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "R30")
 					(unit 1)
@@ -15764,7 +15764,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:CAP0603")
+		(lib_id "MusselGapeTracker_RevI:CAP0603")
 		(at 31.75 396.24 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15823,7 +15823,7 @@
 			(uuid "e4e2e2b3-1665-428f-a859-f023ddc54f7f")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "C23")
 					(unit 1)
@@ -15832,7 +15832,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:VCC")
+		(lib_id "MusselGapeTracker_RevI:VCC")
 		(at 160.02 341.63 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15858,7 +15858,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 160.02 341.63 0)
 			(effects
 				(font
@@ -15888,7 +15888,7 @@
 			(uuid "897f5d4c-56f3-4518-880d-18629be49f77")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#SUPPLY04")
 					(unit 1)
@@ -15897,7 +15897,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
 		(at 87.63 256.54 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15923,7 +15923,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
 			(at 87.63 256.54 0)
 			(effects
 				(font
@@ -15962,7 +15962,7 @@
 			(uuid "4256fdd9-62d3-45b4-ab5f-03c571f75851")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "HALL10")
 					(unit 1)
@@ -15971,7 +15971,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:CPOL-USB")
+		(lib_id "MusselGapeTracker_RevI:CPOL-USB")
 		(at 205.74 430.53 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15997,7 +15997,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:PANASONIC_B"
+		(property "Footprint" "MusselGapeTracker_RevI:PANASONIC_B"
 			(at 205.74 430.53 0)
 			(effects
 				(font
@@ -16030,7 +16030,7 @@
 			(uuid "fe6cc380-1b79-474c-9c53-39b9d4189d76")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "C2")
 					(unit 1)
@@ -16039,7 +16039,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PINHD-1X1SMALL")
+		(lib_id "MusselGapeTracker_RevI:PINHD-1X1SMALL")
 		(at 234.95 300.99 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16065,7 +16065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:1X01_SMALL"
+		(property "Footprint" "MusselGapeTracker_RevI:1X01_SMALL"
 			(at 234.95 300.99 0)
 			(effects
 				(font
@@ -16095,7 +16095,7 @@
 			(uuid "26c5a30f-95ac-4362-ba97-22ca076535bd")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "U$6")
 					(unit 1)
@@ -16104,7 +16104,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:VCC")
+		(lib_id "MusselGapeTracker_RevI:VCC")
 		(at 57.15 396.24 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16130,7 +16130,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 57.15 396.24 0)
 			(effects
 				(font
@@ -16160,7 +16160,7 @@
 			(uuid "1eb0be8d-6364-447a-b7dd-5029afa33399")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#SUPPLY08")
 					(unit 1)
@@ -16169,7 +16169,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
 		(at 165.1 353.06 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16228,7 +16228,7 @@
 			(uuid "934ae446-6ad7-4c0c-b537-a9e98553fe4d")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "R5")
 					(unit 1)
@@ -16237,7 +16237,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PINHD-1X1SMALL")
+		(lib_id "MusselGapeTracker_RevI:PINHD-1X1SMALL")
 		(at 234.95 318.77 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16263,7 +16263,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:1X01_SMALL"
+		(property "Footprint" "MusselGapeTracker_RevI:1X01_SMALL"
 			(at 234.95 318.77 0)
 			(effects
 				(font
@@ -16293,7 +16293,7 @@
 			(uuid "b90b1ddd-91b5-4571-be4b-ae558cc2c3be")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "U$9")
 					(unit 1)
@@ -16302,7 +16302,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:74HC595D")
+		(lib_id "MusselGapeTracker_RevI:74HC595D")
 		(at 102.87 313.69 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16328,7 +16328,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:SO16"
+		(property "Footprint" "MusselGapeTracker_RevI:SO16"
 			(at 102.87 313.69 0)
 			(effects
 				(font
@@ -16403,7 +16403,7 @@
 			(uuid "a5f7ba38-f58a-4d0c-94f5-8cafd2143102")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "SHIFT_0")
 					(unit 1)
@@ -16412,7 +16412,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:STAND-OFF4-40")
+		(lib_id "MusselGapeTracker_RevI:STAND-OFF4-40")
 		(at 292.1 247.65 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16438,7 +16438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:STAND-OFF"
+		(property "Footprint" "MusselGapeTracker_RevI:STAND-OFF"
 			(at 292.1 247.65 0)
 			(effects
 				(font
@@ -16465,7 +16465,7 @@
 			)
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "STANDOFF3")
 					(unit 1)
@@ -16474,7 +16474,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:VCC")
+		(lib_id "MusselGapeTracker_RevI:VCC")
 		(at 146.05 316.23 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16500,7 +16500,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 146.05 316.23 0)
 			(effects
 				(font
@@ -16530,7 +16530,7 @@
 			(uuid "0966bddf-c667-4f6b-b0d1-9cbf52566b8c")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#SUPPLY07")
 					(unit 1)
@@ -16539,7 +16539,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PINHD-1X1SMALL")
+		(lib_id "MusselGapeTracker_RevI:PINHD-1X1SMALL")
 		(at 54.61 414.02 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16565,7 +16565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:1X01_SMALL"
+		(property "Footprint" "MusselGapeTracker_RevI:1X01_SMALL"
 			(at 54.61 414.02 0)
 			(effects
 				(font
@@ -16595,7 +16595,7 @@
 			(uuid "e2c35aff-6046-4349-a703-f763a0222624")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "PB7")
 					(unit 1)
@@ -16604,7 +16604,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
 		(at 54.61 276.86 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16630,7 +16630,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
 			(at 54.61 276.86 0)
 			(effects
 				(font
@@ -16669,7 +16669,7 @@
 			(uuid "39817bf4-ed16-4a33-907e-efb5950d508f")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "HALL1")
 					(unit 1)
@@ -16678,7 +16678,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:CAP0603")
+		(lib_id "MusselGapeTracker_RevI:CAP0603")
 		(at 270.51 345.44 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16737,7 +16737,7 @@
 			(uuid "17f3dbf1-26ea-4d9e-ac0f-30dccccf6f88")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "C7")
 					(unit 1)
@@ -16746,7 +16746,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PINHD-1X1SMALL")
+		(lib_id "MusselGapeTracker_RevI:PINHD-1X1SMALL")
 		(at 287.02 269.24 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16772,7 +16772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:1X01_SMALL"
+		(property "Footprint" "MusselGapeTracker_RevI:1X01_SMALL"
 			(at 287.02 269.24 0)
 			(effects
 				(font
@@ -16802,7 +16802,7 @@
 			(uuid "09a6b7c8-a796-4de7-9c9b-8b5d595cabd9")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "U$3")
 					(unit 1)
@@ -16811,7 +16811,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
+		(lib_id "MusselGapeTracker_RevI:GND")
 		(at 10.16 322.58 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16837,7 +16837,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 10.16 322.58 0)
 			(effects
 				(font
@@ -16867,7 +16867,7 @@
 			(uuid "7f08493c-0dca-4eb7-817f-eb4a8aac55d4")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#GND09")
 					(unit 1)
@@ -16876,7 +16876,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
 		(at 24.13 276.86 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16902,7 +16902,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
 			(at 24.13 276.86 0)
 			(effects
 				(font
@@ -16941,7 +16941,7 @@
 			(uuid "38c69bf5-e042-4576-bf4d-ecef4c248eec")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "HALL0")
 					(unit 1)
@@ -16950,7 +16950,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
+		(lib_id "MusselGapeTracker_RevI:GND")
 		(at 290.83 339.09 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16976,7 +16976,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 290.83 339.09 0)
 			(effects
 				(font
@@ -17006,7 +17006,7 @@
 			(uuid "2d7cc374-b437-4ed8-967a-59a49e7243a6")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#GND017")
 					(unit 1)
@@ -17015,7 +17015,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
 		(at 143.51 393.7 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17074,7 +17074,7 @@
 			(uuid "fe0b81b5-68f2-4aa7-9f11-bb2d7f6a5f3f")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "R3")
 					(unit 1)
@@ -17083,7 +17083,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:74HC595D")
+		(lib_id "MusselGapeTracker_RevI:74HC595D")
 		(at 186.69 313.69 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17109,7 +17109,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:SO16"
+		(property "Footprint" "MusselGapeTracker_RevI:SO16"
 			(at 186.69 313.69 0)
 			(effects
 				(font
@@ -17184,7 +17184,7 @@
 			(uuid "770a5776-a339-4dd9-a84e-f87ea1638aa7")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "SHIFT_1")
 					(unit 1)
@@ -17193,7 +17193,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PINHD-1X6RA")
+		(lib_id "MusselGapeTracker_RevI:PINHD-1X6RA")
 		(at 339.09 314.96 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17219,7 +17219,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:1X06-RIGHT_ANGLE"
+		(property "Footprint" "MusselGapeTracker_RevI:1X06-RIGHT_ANGLE"
 			(at 339.09 314.96 0)
 			(effects
 				(font
@@ -17264,7 +17264,7 @@
 			(uuid "bcac00ae-24be-4a61-8ee3-0a8f5e1071eb")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "JP1")
 					(unit 1)
@@ -17273,7 +17273,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:ATMEGA328_SMT")
+		(lib_id "MusselGapeTracker_RevI:ATMEGA328_SMT")
 		(at 92.71 408.94 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17299,7 +17299,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:TQFP32-08"
+		(property "Footprint" "MusselGapeTracker_RevI:TQFP32-08"
 			(at 92.71 408.94 0)
 			(effects
 				(font
@@ -17422,7 +17422,7 @@
 			(uuid "82a38ae9-391f-4317-aac0-d80334efcf82")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "U1")
 					(unit 1)
@@ -17431,7 +17431,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
+		(lib_id "MusselGapeTracker_RevI:GND")
 		(at 265.43 432.816 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17457,7 +17457,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 265.43 432.816 0)
 			(effects
 				(font
@@ -17487,7 +17487,7 @@
 			(uuid "4958dcb7-4bdc-452f-943f-55282df07c70")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#GND016")
 					(unit 1)
@@ -17496,7 +17496,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
 		(at 247.65 276.86 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17522,7 +17522,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
 			(at 247.65 276.86 0)
 			(effects
 				(font
@@ -17561,7 +17561,7 @@
 			(uuid "33da3021-7f2f-4dab-b9bd-0a43e476e048")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "HALL7")
 					(unit 1)
@@ -17570,7 +17570,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
 		(at 24.13 256.54 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17596,7 +17596,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
 			(at 24.13 256.54 0)
 			(effects
 				(font
@@ -17635,7 +17635,7 @@
 			(uuid "0176d531-e851-404b-b4d0-45bed5b2420c")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "HALL8")
 					(unit 1)
@@ -17644,7 +17644,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:22-23-2021")
+		(lib_id "MusselGapeTracker_RevI:22-23-2021")
 		(at 259.08 439.42 180)
 		(unit 2)
 		(exclude_from_sim no)
@@ -17671,7 +17671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:22-23-2021"
+		(property "Footprint" "MusselGapeTracker_RevI:22-23-2021"
 			(at 259.08 439.42 0)
 			(effects
 				(font
@@ -17704,7 +17704,7 @@
 			(uuid "38e8299c-2347-4766-8a41-cbe3df1f86c6")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "MOLEX_KK0")
 					(unit 2)
@@ -17713,7 +17713,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:CAP0603")
+		(lib_id "MusselGapeTracker_RevI:CAP0603")
 		(at 69.85 321.31 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17772,7 +17772,7 @@
 			(uuid "f17bf363-dda7-4f46-8c31-11ae147c61e4")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "C9")
 					(unit 1)
@@ -17882,7 +17882,7 @@
 			(uuid "38bd01d0-a623-43de-b142-b243ff530e2f")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "U2")
 					(unit 1)
@@ -17891,7 +17891,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:STAND-OFFM2")
+		(lib_id "MusselGapeTracker_RevI:STAND-OFFM2")
 		(at 278.13 247.65 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17917,7 +17917,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:STAND-OFF_M2"
+		(property "Footprint" "MusselGapeTracker_RevI:STAND-OFF_M2"
 			(at 278.13 247.65 0)
 			(effects
 				(font
@@ -17944,7 +17944,7 @@
 			)
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "STANDOFF5_M2")
 					(unit 1)
@@ -17953,7 +17953,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:INDUCTOR0805_TY")
+		(lib_id "MusselGapeTracker_RevI:INDUCTOR0805_TY")
 		(at 24.13 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17979,7 +17979,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:I_0805"
+		(property "Footprint" "MusselGapeTracker_RevI:I_0805"
 			(at 24.13 388.62 0)
 			(effects
 				(font
@@ -18012,7 +18012,7 @@
 			(uuid "c4e94aad-02aa-403d-93cd-03c8a507a88b")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "INDUCTOR0")
 					(unit 1)
@@ -18021,7 +18021,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:CAP0603")
+		(lib_id "MusselGapeTracker_RevI:CAP0603")
 		(at 156.21 377.19 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18080,7 +18080,7 @@
 			(uuid "3ae6455b-9684-4c3b-9446-6caee96b61ea")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "C10")
 					(unit 1)
@@ -18089,7 +18089,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PUSHBUTTON_DPST_SMDSTANDARD")
+		(lib_id "MusselGapeTracker_RevI:PUSHBUTTON_DPST_SMDSTANDARD")
 		(at 245.11 308.61 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18115,7 +18115,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:PUSHBUTTON_DPST_SMD"
+		(property "Footprint" "MusselGapeTracker_RevI:PUSHBUTTON_DPST_SMD"
 			(at 245.11 308.61 0)
 			(effects
 				(font
@@ -18154,7 +18154,7 @@
 			(uuid "7b33f6ea-9c3b-4b07-a920-10153db6aca0")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "BUTTON1")
 					(unit 1)
@@ -18163,2565 +18163,32 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:VCC")
-		(at 8.89 388.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9e965dba-0594-4aa8-9b8f-d1e9527f7f6d")
-		(property "Reference" "#SUPPLY02"
-			(at 8.89 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 7.874 385.064 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
-			(at 8.89 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 8.89 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 8.89 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d00e848d-ab5d-4098-b4f2-3c42ec92b21d")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "#SUPPLY02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
-		(at 274.32 454.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9f70d201-395a-4c81-9f15-d3fb7493e73f")
-		(property "Reference" "#GND0101"
-			(at 274.32 454.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 271.78 457.2 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
-			(at 274.32 454.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 274.32 454.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 274.32 454.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d583685a-286e-4559-a893-09621a120b6c")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "#GND0101")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
-		(at 184.15 256.54 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a0016772-b57c-4a6b-8f25-7cc82a244eb9")
-		(property "Reference" "HALL13"
-			(at 177.8 248.285 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "JST-4PINTH_STRAIGHT"
-			(at 177.8 264.16 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
-			(at 184.15 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 184.15 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 184.15 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ce239c7c-8fa4-46b5-be63-5c9efae4ab1e")
-		)
-		(pin "2"
-			(uuid "1580d362-a6f4-4be6-9265-421cf09294cb")
-		)
-		(pin "3"
-			(uuid "194ba126-f153-469a-af00-362191034800")
-		)
-		(pin "4"
-			(uuid "05bdefc4-7318-47ec-addc-33ec2c464277")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "HALL13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
-		(at 325.12 417.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a0651c19-decb-47bf-9213-404e215b54ed")
-		(property "Reference" "R29"
-			(at 321.31 416.3314 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "10k"
-			(at 321.31 421.132 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 325.12 417.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 325.12 417.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 325.12 417.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2c8d3585-e49a-4ffa-9196-2433ebe397cf")
-		)
-		(pin "2"
-			(uuid "b20e0aed-ae0a-4e08-a5d3-c9d8cce8ffd5")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "R29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:CAP0603")
-		(at 41.91 396.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a1e41c98-346a-4b62-8a04-791fddb91a7f")
-		(property "Reference" "C3"
-			(at 43.434 393.319 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "0.1µF"
-			(at 43.434 398.399 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 41.91 396.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 41.91 396.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 41.91 396.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f38c3809-945b-4dd3-8f49-0597b1b9cd0e")
-		)
-		(pin "2"
-			(uuid "620d6ea4-0c50-4c23-8f00-fc1a0d6d0894")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:VCC")
-		(at 140.97 421.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a4f1ea0d-415b-48b3-8765-f6c8bd70d810")
-		(property "Reference" "#SUPPLY011"
-			(at 140.97 421.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 139.954 418.084 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
-			(at 140.97 421.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 421.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 140.97 421.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ff851f26-2b06-46bc-8d65-b8e18bb4d162")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "#SUPPLY011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PINHD-1X1SMALL")
-		(at 62.23 398.78 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a773d2c7-28e2-4ae3-9a00-a22287ec12b1")
-		(property "Reference" "U$17"
-			(at 62.23 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PINHD-1X1SMALL"
-			(at 62.23 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:1X01_SMALL"
-			(at 62.23 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 62.23 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 62.23 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "59c98053-15e1-4b11-bb0d-a65450af8ad5")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "U$17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:CAP0603")
-		(at 153.67 321.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "aa1ea554-d736-449d-a45c-fce02aa87582")
-		(property "Reference" "C8"
-			(at 155.194 318.389 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "0.1µF"
-			(at 155.194 323.469 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 153.67 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 153.67 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 153.67 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2683303d-72f7-4c68-ad33-f609353b2537")
-		)
-		(pin "2"
-			(uuid "e892debb-1969-4e2b-80b5-ffa14da7f2ce")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "C8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:MOSFET-PCHANNELSSM3J328R")
-		(at 353.06 417.83 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ad22191b-3e7b-4f44-9eb2-c0e96b477542")
-		(property "Reference" "PFET-0"
-			(at 349.504 395.478 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-			)
-		)
-		(property "Value" "MOSFET-PCHANNELSSM3J328R"
-			(at 353.314 395.478 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevH:SOT23-3"
-			(at 353.06 417.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 353.06 417.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 353.06 417.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0c74a0e4-f4d0-427d-bfb4-19f3a72fc1aa")
-		)
-		(pin "3"
-			(uuid "d6919c7e-bfa0-47e6-9a34-e6136e133e4f")
-		)
-		(pin "2"
-			(uuid "1fccab86-49a2-4ac8-9eb7-918f29d06737")
-		)
-		(instances
-			(project ""
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "PFET-0")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
-		(at 41.91 403.86 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "add86442-70ac-4468-b48c-488ad36179ac")
-		(property "Reference" "#GND02"
-			(at 41.91 403.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 39.37 406.4 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
-			(at 41.91 403.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 41.91 403.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 41.91 403.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "731f1c71-56d7-47d2-8ff1-e6f9a4fb3722")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "#GND02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PINHD-1X1SMALL")
-		(at 234.95 303.53 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "adeaaafc-021e-4960-be88-21f3ce9a907e")
-		(property "Reference" "U$7"
-			(at 234.95 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PINHD-1X1SMALL"
-			(at 234.95 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:1X01_SMALL"
-			(at 234.95 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 234.95 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 234.95 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "49f2aabc-1a85-400d-a9e0-5809861930c1")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "U$7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:VCC")
-		(at 417.83 369.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "af8446bf-2e5a-4e9d-8ce5-fde6adb4898e")
-		(property "Reference" "#SUPPLY010"
-			(at 417.83 369.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 416.814 366.014 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
-			(at 417.83 369.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 417.83 369.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 417.83 369.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "51dcb525-f844-4883-baaf-623f126b7232")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "#SUPPLY010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:KSC1623_BJT_TRANSISTOR")
-		(at 345.44 438.15 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b374e2ba-fe57-4d5a-83fb-9b1bf21df1ae")
-		(property "Reference" "BJT0"
-			(at 350.52 438.15 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "KSC1623_BJT_TRANSISTOR"
-			(at 350.52 440.69 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:SOT23"
-			(at 345.44 438.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 345.44 438.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 345.44 438.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a59349a8-133d-4896-9878-ee782556e0c0")
-		)
-		(pin "2"
-			(uuid "0188ae07-d649-4dda-89a2-1a80181b96d2")
-		)
-		(pin "3"
-			(uuid "f664b1d0-9d87-4bdf-aabd-39dd82722fb6")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "BJT0")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
-		(at 153.67 276.86 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b3c48157-7f09-483a-bf42-60f7b55b86c5")
-		(property "Reference" "HALL4"
-			(at 147.32 268.605 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "JST-4PINTH_STRAIGHT"
-			(at 147.32 284.48 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
-			(at 153.67 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 153.67 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 153.67 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2f447718-2f08-422d-b233-9ab4b1dca722")
-		)
-		(pin "2"
-			(uuid "eea2a6d1-b506-4bb2-95d0-457640d02355")
-		)
-		(pin "3"
-			(uuid "efe6e9e6-cd9d-4b76-80c8-970da091e15b")
-		)
-		(pin "4"
-			(uuid "b7d7fa04-2386-4664-afc3-8efe8c8fbe6f")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "HALL4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
-		(at 128.27 368.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b3ce9b02-f8ac-41e2-aa15-03c024946e78")
-		(property "Reference" "R7"
-			(at 126.7714 372.11 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "4.7k"
-			(at 131.572 372.11 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 128.27 368.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 128.27 368.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 128.27 368.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fcbbbd1b-d497-4855-b5d5-cdb657dc2dce")
-		)
-		(pin "2"
-			(uuid "322055b3-db28-4fee-ae13-fc5da7762e18")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "R7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:VCC")
-		(at 156.21 370.84 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b48f856b-70ba-46e7-aec6-9db34ce8ba32")
-		(property "Reference" "#SUPPLY03"
-			(at 156.21 370.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 156.718 369.316 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
-			(at 156.21 370.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 156.21 370.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 156.21 370.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "60e85869-3e10-4e6a-88c1-3406322e1d43")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "#SUPPLY03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
-		(at 118.11 256.54 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b64f7e11-a524-41b5-922b-f9bb0848d5a1")
-		(property "Reference" "HALL11"
-			(at 111.76 248.285 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "JST-4PINTH_STRAIGHT"
-			(at 111.76 264.16 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
-			(at 118.11 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 118.11 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 118.11 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "27d19964-812b-4f58-b302-ec7a7fec73df")
-		)
-		(pin "2"
-			(uuid "08686223-1fa6-4aff-b566-536649a2b89c")
-		)
-		(pin "3"
-			(uuid "c8c90b18-9690-4fe3-8138-28a047ae0d75")
-		)
-		(pin "4"
-			(uuid "7a38c8c1-aefa-44d1-b6bd-848d2b6bf612")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "HALL11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:VCC")
-		(at 280.67 344.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b7a170a1-1c2f-49a3-a118-705774635277")
-		(property "Reference" "#SUPPLY09"
-			(at 280.67 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 279.654 340.614 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
-			(at 280.67 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 280.67 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 280.67 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d4f2589c-5b49-4226-9363-9ce9e2ed5524")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "#SUPPLY09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
-		(at 317.5 422.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bd663f8d-6309-4fed-bec5-6c7517ac3b82")
-		(property "Reference" "#GND015"
-			(at 317.5 422.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 314.96 425.45 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
-			(at 317.5 422.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 317.5 422.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 317.5 422.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "199c94c3-08e0-41e3-8196-d0989cfc566e")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "#GND015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:CAP0603")
-		(at 166.37 377.19 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c0b3501a-283f-4edc-bdcf-21007ebc5779")
-		(property "Reference" "C4"
-			(at 167.894 374.269 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "0.1µF"
-			(at 167.894 379.349 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 166.37 377.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 166.37 377.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 166.37 377.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "870f0ec6-2fdd-4bd4-a08b-05920ac02e18")
-		)
-		(pin "2"
-			(uuid "40806afa-348d-4fab-a453-216236484128")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
-		(at 417.83 447.04 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c17e3858-5a0a-4656-9a70-e404ae312afc")
-		(property "Reference" "#GND013"
-			(at 417.83 447.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 415.29 449.58 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
-			(at 417.83 447.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 417.83 447.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 417.83 447.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "103da9eb-b4d3-4c33-b812-b418a9abbcfd")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "#GND013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:74HC4067SM96")
-		(at 415.29 408.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c188f0a8-376a-4c7b-8502-0b4931e7f740")
-		(property "Reference" "U$2"
-			(at 407.67 377.825 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "74HC4067SM96"
-			(at 407.67 439.42 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm"
-			(at 415.29 408.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 415.29 408.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 415.29 408.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3a8d5121-e1ee-4771-b9e3-814a5cc24f58")
-		)
-		(pin "10"
-			(uuid "6840407d-13c7-40ad-8931-7d3fe2f47f76")
-		)
-		(pin "11"
-			(uuid "7081124c-35b7-4c39-a367-a8180cd10555")
-		)
-		(pin "12"
-			(uuid "b393972e-dcbe-4bae-9af3-aed31aacb192")
-		)
-		(pin "13"
-			(uuid "7074f7bd-de97-487b-97cb-14a186babfd4")
-		)
-		(pin "14"
-			(uuid "7c06406b-f3bc-4072-985a-13ab2ff2ea27")
-		)
-		(pin "15"
-			(uuid "cd114111-762c-4244-afe9-58e5958f4d25")
-		)
-		(pin "16"
-			(uuid "86dd9bac-2a64-44bf-89ca-2b4ce232e364")
-		)
-		(pin "17"
-			(uuid "bc3c58b3-2fa3-49e3-a750-b0966338d8d8")
-		)
-		(pin "18"
-			(uuid "a7ab479b-f918-48df-bec8-19fd4ee536c1")
-		)
-		(pin "19"
-			(uuid "81286a41-0fa8-46dc-98c8-a4304017419d")
-		)
-		(pin "2"
-			(uuid "6b236d3c-6bf0-4cf7-9f55-b40ecbeb8780")
-		)
-		(pin "20"
-			(uuid "bf5592db-ba64-4cae-97da-6d211bfdebfc")
-		)
-		(pin "21"
-			(uuid "0bd55f34-9d73-489e-be84-ad4ecd042484")
-		)
-		(pin "22"
-			(uuid "b81b739a-4ae1-48ff-80e7-47aa523cbc67")
-		)
-		(pin "23"
-			(uuid "c2961d42-e579-49ce-9464-23b1f14b52a0")
-		)
-		(pin "24"
-			(uuid "1b7f2d6e-8f7f-4c71-badd-4413477f8639")
-		)
-		(pin "3"
-			(uuid "82f25e69-f1dd-4763-af0d-0b78e431eba4")
-		)
-		(pin "4"
-			(uuid "c9c83e13-c2af-4242-bfd2-c34e116f7a24")
-		)
-		(pin "5"
-			(uuid "aad9c39f-71d7-4768-a4ef-e2820855fe05")
-		)
-		(pin "6"
-			(uuid "9780bc07-f67d-48eb-a697-25019f7f558d")
-		)
-		(pin "7"
-			(uuid "cd4cfc97-683f-4646-b2e5-bc8173054c8b")
-		)
-		(pin "8"
-			(uuid "2283c4a7-5bb0-4842-ae78-722b029ba6ec")
-		)
-		(pin "9"
-			(uuid "878dccb1-0853-4a1a-a39d-bee9a3cf29cd")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "U$2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:LED0805")
-		(at 17.78 317.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c3403a7f-8b8b-44e9-b4d4-7a080e054f4e")
-		(property "Reference" "LED2"
-			(at 15.748 321.056 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "GREEN_LED"
-			(at 15.748 323.215 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:CHIPLED_0805"
-			(at 17.78 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 17.78 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 17.78 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "A"
-			(uuid "875639df-991e-4689-8a20-2b3587ff37e0")
-		)
-		(pin "C"
-			(uuid "8c31e5bf-7e9a-4a68-869a-1a1f8d5c073d")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "LED2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:MCP1700T-3302E/TT")
-		(at 187.96 427.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c4361039-0160-4224-ad8a-ba98f1e18f34")
-		(property "Reference" "MCP1700T-3302"
-			(at 175.6156 421.4114 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "MCP1700T-3302E{slash}TT"
-			(at 187.96 427.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:SOT95P237X112-3N"
-			(at 187.96 427.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 187.96 427.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 187.96 427.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3470a7b7-1602-43be-99cd-ef12414f675d")
-		)
-		(pin "2"
-			(uuid "51b31d53-58ea-446a-a712-8930b0fd70ae")
-		)
-		(pin "3"
-			(uuid "caea6b93-5ad0-44d5-86ab-3c5f187d8f3d")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "MCP1700T-3302")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
-		(at 217.17 276.86 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c5e0ae38-2eb6-453a-ae9f-0b771027f36f")
-		(property "Reference" "HALL6"
-			(at 210.82 268.605 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "JST-4PINTH_STRAIGHT"
-			(at 210.82 284.48 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
-			(at 217.17 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 217.17 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 217.17 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9af503bf-af64-44ae-9ff3-02d891adf3ef")
-		)
-		(pin "2"
-			(uuid "3d636fed-5aaf-443a-b9f4-8b46e349fc3b")
-		)
-		(pin "3"
-			(uuid "dab42673-5f4a-4d03-bee7-4163456656e0")
-		)
-		(pin "4"
-			(uuid "f3b6dc57-a365-4259-b265-8f1bf8c3b04d")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "HALL6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
-		(at 33.02 317.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c7d35be2-543f-4f9d-a3d8-4901d08e1bc8")
-		(property "Reference" "R2"
-			(at 29.21 316.0014 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "100 Ω"
-			(at 29.21 320.802 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 33.02 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 33.02 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 33.02 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "36401fc4-ac03-487c-bf09-244bfc2550cb")
-		)
-		(pin "2"
-			(uuid "91ede289-2b6e-4275-8b00-652e5d7a5f75")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
-		(at 247.65 256.54 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ca86953d-5f26-4961-b8ae-605ae59d53c5")
-		(property "Reference" "HALL15"
-			(at 241.3 248.285 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "JST-4PINTH_STRAIGHT"
-			(at 241.3 264.16 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
-			(at 247.65 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 247.65 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 247.65 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "53549c39-dcb9-4de2-a4b6-044125e5ae21")
-		)
-		(pin "2"
-			(uuid "7437c8db-d9f8-4055-8e90-ff5300afc1c7")
-		)
-		(pin "3"
-			(uuid "240caa93-814d-4ee1-b591-7e45a6cc7f41")
-		)
-		(pin "4"
-			(uuid "0b7d685e-f20f-4406-afed-1bbd3002b012")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "HALL15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
-		(at 257.81 326.39 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "cbdc5714-58ea-4062-8983-d6799df65277")
-		(property "Reference" "#GND05"
-			(at 257.81 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 255.27 328.93 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
-			(at 257.81 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 257.81 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 257.81 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "059b7a36-b881-40a8-a4c6-c3ad8182e845")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "#GND05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:STAND-OFF4-40")
-		(at 284.48 254 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "cd765423-9e60-4c1d-a736-0342b45a8b7d")
-		(property "Reference" "STANDOFF1"
-			(at 284.48 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "STAND-OFF4-40"
-			(at 284.48 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:STAND-OFF"
-			(at 284.48 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 284.48 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 284.48 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "STANDOFF1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
-		(at 87.63 276.86 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ce874c77-2970-4c62-a9dc-964f0e3c8b34")
-		(property "Reference" "HALL2"
-			(at 81.28 268.605 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "JST-4PINTH_STRAIGHT"
-			(at 81.28 284.48 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
-			(at 87.63 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 87.63 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 87.63 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "68a42cd6-61a2-4f64-9375-cdf69716a99d")
-		)
-		(pin "2"
-			(uuid "e4e625c6-5ea3-40bd-aad5-9d01cedff030")
-		)
-		(pin "3"
-			(uuid "7ec15a56-8d32-4a7c-a33e-f61df383a356")
-		)
-		(pin "4"
-			(uuid "c3fe62d8-a89a-4d25-8696-f72b7571e297")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "HALL2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
-		(at 360.68 425.45 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d202657e-6d54-469f-806d-1c20854ac53c")
-		(property "Reference" "R33"
-			(at 359.1814 429.26 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "10k"
-			(at 363.982 429.26 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 360.68 425.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 360.68 425.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 360.68 425.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1ac9e650-7c28-4c19-8e37-2f5909e0ecc9")
-		)
-		(pin "2"
-			(uuid "e2619847-8eca-443f-ad92-35e16e9759d4")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "R33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Timer_RTC:DS3231MZ")
-		(at 298.45 369.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d3d1bf4d-b2ae-494a-86e2-8a6ad300459c")
-		(property "Reference" "U3"
-			(at 300.4694 379.3395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DS3231MZ"
-			(at 300.4694 382.1146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 298.45 382.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://datasheets.maximintegrated.com/en/ds/DS3231M.pdf"
-			(at 298.45 384.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 298.45 369.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8c17eba2-23ec-45bc-9867-380092cf5abd")
-		)
-		(pin "2"
-			(uuid "e2075c38-532c-48dc-a02e-50b0e939dd6e")
-		)
-		(pin "3"
-			(uuid "94e2c88e-059a-488b-86b2-1a537564e9cc")
-		)
-		(pin "4"
-			(uuid "1a66b80e-44f2-4a7d-aad3-04b344f74fab")
-		)
-		(pin "5"
-			(uuid "6f018f4e-d4e7-4818-b9a3-517ee2df4f14")
-		)
-		(pin "6"
-			(uuid "1a308f82-60e8-4ed0-be73-37da111aa35d")
-		)
-		(pin "7"
-			(uuid "1037f193-4c97-4f46-829c-64f3dc9f2b35")
-		)
-		(pin "8"
-			(uuid "a9007d39-ae19-46ae-a990-c863f9b58ee1")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "U3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
-		(at 293.37 381 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d5721510-f933-43e3-9ea3-c2053e70fc8e")
-		(property "Reference" "#GND018"
-			(at 293.37 381 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 290.83 383.54 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
-			(at 293.37 381 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 293.37 381 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 293.37 381 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "94420478-3145-4f42-a2a1-70d85c1af5ad")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "#GND018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
-		(at 80.01 331.47 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d7889406-6bd1-49da-a706-877ac77f2d43")
-		(property "Reference" "#GND011"
-			(at 80.01 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 77.47 334.01 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
-			(at 80.01 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 80.01 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 80.01 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b05005f0-e5e4-4712-b324-c7a3292ab16a")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "#GND011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:PINHD-1X4LOCK")
-		(at 339.09 266.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d88f2cf1-9fa8-4767-9306-cd2186c6eb25")
-		(property "Reference" "OLED0"
-			(at 332.74 258.445 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "PINHD-1X4LOCK"
-			(at 332.74 274.32 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:1X04_LOCK"
-			(at 339.09 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 339.09 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 339.09 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c8ce476c-0de8-4c98-a480-73b14785fae3")
-		)
-		(pin "2"
-			(uuid "bc305dab-4790-4f38-91df-66baf48263a5")
-		)
-		(pin "3"
-			(uuid "c0704e1d-e2b8-4221-ac74-e01945ae99fe")
-		)
-		(pin "4"
-			(uuid "1934829d-65fa-40ab-85b4-43aaf9f02f40")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "OLED0")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:VCC")
-		(at 64.77 354.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "dd755874-1687-4b26-865b-0356e69182eb")
-		(property "Reference" "#SUPPLY01"
-			(at 64.77 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 63.754 350.774 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
-			(at 64.77 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 64.77 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 64.77 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "187a1270-8e1f-46b9-8e85-b5acb1eb763a")
-		)
-		(instances
-			(project "MusselGapeTracker_RevH"
-				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
-					(reference "#SUPPLY01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MusselGapeTracker_RevH-SlaterSymbols:MEM2052-00-195-00-A_REVA")
+		(lib_id "MusselGapeTracker_RevI:MEM2052-00-195-00-A_REVA")
 		(at 201.93 360.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "ddeb9d31-8b9a-4d01-8ab2-8561c3252486")
+		(fields_autoplaced yes)
+		(uuid "9a7186d5-7389-4119-8508-4b0c31a20d34")
 		(property "Reference" "SD1"
-			(at 201.93 360.68 0)
+			(at 194.945 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "Value" "GCT_MEM2052-00-195-00-A_REVA"
-			(at 201.93 360.68 0)
+		(property "Value" "MEM2052-00-195-00-A_REVA"
+			(at 194.945 342.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevH:GCT_MEM2052-00-195-00-A_REVA"
+		(property "Footprint" "MusselGapeTracker_RevI:GCT_MEM2052-00-195-00-A_REVA"
 			(at 201.93 360.68 0)
 			(effects
 				(font
@@ -20889,47 +18356,47 @@
 				(hide yes)
 			)
 		)
-		(pin "MISO7"
-			(uuid "a7195f86-3873-4baf-8ab0-fb162a2dd502")
-		)
-		(pin "RES1"
-			(uuid "eb180e69-95d3-4c2b-9ff2-9a4813bf6d6b")
-		)
-		(pin "CARD_DETECT9"
-			(uuid "426fa544-9593-4d65-a709-3fe21210fd26")
-		)
-		(pin "GND6"
-			(uuid "baf1c6ba-b9cb-41da-8f42-5db74592d94c")
-		)
-		(pin "MNT3"
-			(uuid "7a7fbcd2-632e-4493-88a8-3266a6ee909b")
-		)
-		(pin "MNT4"
-			(uuid "086568eb-83e0-4c09-84b3-d51ca828e974")
+		(pin "VDD4"
+			(uuid "073db230-df4c-48a0-9f03-5ad73e2e2b92")
 		)
 		(pin "MOSI3"
-			(uuid "deec0273-2437-4e85-ab9d-1c888ebca8b4")
-		)
-		(pin "NC8"
-			(uuid "cb8df701-4cbc-4691-8bc6-8865ef10f545")
-		)
-		(pin "VDD4"
-			(uuid "74ff35e4-3b00-40a9-8136-584a2f6bb3dc")
-		)
-		(pin "MNT2"
-			(uuid "cf73d72e-9419-4bd6-a354-3ebfc4a969b8")
-		)
-		(pin "MNT1"
-			(uuid "448dcb9e-a503-4135-95ef-87ee239b0ec0")
+			(uuid "a9aa8b61-4c7b-4855-903f-be6d7750b2c5")
 		)
 		(pin "CS2"
-			(uuid "1ff68e04-835d-4bcb-9c08-6a2296e6e679")
+			(uuid "01fac972-a73d-4c6b-aef4-ba350184c5e7")
 		)
 		(pin "SCK5"
-			(uuid "a6cb2663-f467-4610-97c5-8572a97c8e1f")
+			(uuid "9bc33044-95f4-4519-a401-7fb5b424fcdf")
+		)
+		(pin "MNT2"
+			(uuid "e608df3a-1981-4d1e-8bc5-fa1418b7d9d2")
+		)
+		(pin "MISO7"
+			(uuid "2a18b130-b300-41a1-9006-42a149d77700")
+		)
+		(pin "MNT3"
+			(uuid "88768acf-56fd-459b-86b6-3e93d7c8d5b5")
+		)
+		(pin "MNT1"
+			(uuid "9d66d100-1e3e-496a-8e0f-7a0f07f4008a")
+		)
+		(pin "CARD_DETECT9"
+			(uuid "5213cdff-dce2-4de0-b980-e27e4164d259")
+		)
+		(pin "GND6"
+			(uuid "58176fda-6bec-4bd6-ba10-4feb6c33dc0b")
+		)
+		(pin "RES1"
+			(uuid "8954dae6-f2dd-460e-b5cb-32f4697c151e")
+		)
+		(pin "NC8"
+			(uuid "34e422a2-4e9a-4015-9299-67918b058cab")
+		)
+		(pin "MNT4"
+			(uuid "7d96f95b-9d63-4c09-b743-a17faf648a81")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project ""
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "SD1")
 					(unit 1)
@@ -20938,7 +18405,2539 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:VCC")
+		(lib_id "MusselGapeTracker_RevI:VCC")
+		(at 8.89 388.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9e965dba-0594-4aa8-9b8f-d1e9527f7f6d")
+		(property "Reference" "#SUPPLY02"
+			(at 8.89 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 7.874 385.064 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:"
+			(at 8.89 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 8.89 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 8.89 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d00e848d-ab5d-4098-b4f2-3c42ec92b21d")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "#SUPPLY02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:GND")
+		(at 274.32 454.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9f70d201-395a-4c81-9f15-d3fb7493e73f")
+		(property "Reference" "#GND0101"
+			(at 274.32 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 271.78 457.2 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:"
+			(at 274.32 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 274.32 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 274.32 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d583685a-286e-4559-a893-09621a120b6c")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "#GND0101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
+		(at 184.15 256.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a0016772-b57c-4a6b-8f25-7cc82a244eb9")
+		(property "Reference" "HALL13"
+			(at 177.8 248.285 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "JST-4PINTH_STRAIGHT"
+			(at 177.8 264.16 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
+			(at 184.15 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 184.15 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ce239c7c-8fa4-46b5-be63-5c9efae4ab1e")
+		)
+		(pin "2"
+			(uuid "1580d362-a6f4-4be6-9265-421cf09294cb")
+		)
+		(pin "3"
+			(uuid "194ba126-f153-469a-af00-362191034800")
+		)
+		(pin "4"
+			(uuid "05bdefc4-7318-47ec-addc-33ec2c464277")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "HALL13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
+		(at 325.12 417.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a0651c19-decb-47bf-9213-404e215b54ed")
+		(property "Reference" "R29"
+			(at 321.31 416.3314 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "10k"
+			(at 321.31 421.132 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 325.12 417.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 325.12 417.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 325.12 417.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2c8d3585-e49a-4ffa-9196-2433ebe397cf")
+		)
+		(pin "2"
+			(uuid "b20e0aed-ae0a-4e08-a5d3-c9d8cce8ffd5")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "R29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:CAP0603")
+		(at 41.91 396.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a1e41c98-346a-4b62-8a04-791fddb91a7f")
+		(property "Reference" "C3"
+			(at 43.434 393.319 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "0.1µF"
+			(at 43.434 398.399 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 41.91 396.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 396.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 41.91 396.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f38c3809-945b-4dd3-8f49-0597b1b9cd0e")
+		)
+		(pin "2"
+			(uuid "620d6ea4-0c50-4c23-8f00-fc1a0d6d0894")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:VCC")
+		(at 140.97 421.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a4f1ea0d-415b-48b3-8765-f6c8bd70d810")
+		(property "Reference" "#SUPPLY011"
+			(at 140.97 421.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 139.954 418.084 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:"
+			(at 140.97 421.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 421.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 140.97 421.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ff851f26-2b06-46bc-8d65-b8e18bb4d162")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "#SUPPLY011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:PINHD-1X1SMALL")
+		(at 62.23 398.78 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a773d2c7-28e2-4ae3-9a00-a22287ec12b1")
+		(property "Reference" "U$17"
+			(at 62.23 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PINHD-1X1SMALL"
+			(at 62.23 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:1X01_SMALL"
+			(at 62.23 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 62.23 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "59c98053-15e1-4b11-bb0d-a65450af8ad5")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "U$17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:CAP0603")
+		(at 153.67 321.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aa1ea554-d736-449d-a45c-fce02aa87582")
+		(property "Reference" "C8"
+			(at 155.194 318.389 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "0.1µF"
+			(at 155.194 323.469 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 153.67 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.67 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2683303d-72f7-4c68-ad33-f609353b2537")
+		)
+		(pin "2"
+			(uuid "e892debb-1969-4e2b-80b5-ffa14da7f2ce")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:MOSFET-PCHANNELSSM3J328R")
+		(at 353.06 417.83 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ad22191b-3e7b-4f44-9eb2-c0e96b477542")
+		(property "Reference" "PFET-0"
+			(at 349.504 395.478 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+			)
+		)
+		(property "Value" "MOSFET-PCHANNELSSM3J328R"
+			(at 353.314 395.478 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:SOT23-3"
+			(at 353.06 417.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 353.06 417.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 353.06 417.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0c74a0e4-f4d0-427d-bfb4-19f3a72fc1aa")
+		)
+		(pin "3"
+			(uuid "d6919c7e-bfa0-47e6-9a34-e6136e133e4f")
+		)
+		(pin "2"
+			(uuid "1fccab86-49a2-4ac8-9eb7-918f29d06737")
+		)
+		(instances
+			(project ""
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "PFET-0")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:GND")
+		(at 41.91 403.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "add86442-70ac-4468-b48c-488ad36179ac")
+		(property "Reference" "#GND02"
+			(at 41.91 403.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 39.37 406.4 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:"
+			(at 41.91 403.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 403.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 41.91 403.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "731f1c71-56d7-47d2-8ff1-e6f9a4fb3722")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "#GND02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:PINHD-1X1SMALL")
+		(at 234.95 303.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "adeaaafc-021e-4960-be88-21f3ce9a907e")
+		(property "Reference" "U$7"
+			(at 234.95 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PINHD-1X1SMALL"
+			(at 234.95 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:1X01_SMALL"
+			(at 234.95 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 234.95 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 234.95 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "49f2aabc-1a85-400d-a9e0-5809861930c1")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "U$7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:VCC")
+		(at 417.83 369.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "af8446bf-2e5a-4e9d-8ce5-fde6adb4898e")
+		(property "Reference" "#SUPPLY010"
+			(at 417.83 369.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 416.814 366.014 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:"
+			(at 417.83 369.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 417.83 369.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 417.83 369.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "51dcb525-f844-4883-baaf-623f126b7232")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "#SUPPLY010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:KSC1623_BJT_TRANSISTOR")
+		(at 345.44 438.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b374e2ba-fe57-4d5a-83fb-9b1bf21df1ae")
+		(property "Reference" "BJT0"
+			(at 350.52 438.15 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "KSC1623_BJT_TRANSISTOR"
+			(at 350.52 440.69 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:SOT23"
+			(at 345.44 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 345.44 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 345.44 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a59349a8-133d-4896-9878-ee782556e0c0")
+		)
+		(pin "2"
+			(uuid "0188ae07-d649-4dda-89a2-1a80181b96d2")
+		)
+		(pin "3"
+			(uuid "f664b1d0-9d87-4bdf-aabd-39dd82722fb6")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "BJT0")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
+		(at 153.67 276.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b3c48157-7f09-483a-bf42-60f7b55b86c5")
+		(property "Reference" "HALL4"
+			(at 147.32 268.605 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "JST-4PINTH_STRAIGHT"
+			(at 147.32 284.48 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
+			(at 153.67 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.67 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2f447718-2f08-422d-b233-9ab4b1dca722")
+		)
+		(pin "2"
+			(uuid "eea2a6d1-b506-4bb2-95d0-457640d02355")
+		)
+		(pin "3"
+			(uuid "efe6e9e6-cd9d-4b76-80c8-970da091e15b")
+		)
+		(pin "4"
+			(uuid "b7d7fa04-2386-4664-afc3-8efe8c8fbe6f")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "HALL4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
+		(at 128.27 368.3 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b3ce9b02-f8ac-41e2-aa15-03c024946e78")
+		(property "Reference" "R7"
+			(at 126.7714 372.11 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 131.572 372.11 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 128.27 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 128.27 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fcbbbd1b-d497-4855-b5d5-cdb657dc2dce")
+		)
+		(pin "2"
+			(uuid "322055b3-db28-4fee-ae13-fc5da7762e18")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:VCC")
+		(at 156.21 370.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b48f856b-70ba-46e7-aec6-9db34ce8ba32")
+		(property "Reference" "#SUPPLY03"
+			(at 156.21 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 156.718 369.316 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:"
+			(at 156.21 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 156.21 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "60e85869-3e10-4e6a-88c1-3406322e1d43")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "#SUPPLY03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
+		(at 118.11 256.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b64f7e11-a524-41b5-922b-f9bb0848d5a1")
+		(property "Reference" "HALL11"
+			(at 111.76 248.285 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "JST-4PINTH_STRAIGHT"
+			(at 111.76 264.16 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
+			(at 118.11 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 118.11 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "27d19964-812b-4f58-b302-ec7a7fec73df")
+		)
+		(pin "2"
+			(uuid "08686223-1fa6-4aff-b566-536649a2b89c")
+		)
+		(pin "3"
+			(uuid "c8c90b18-9690-4fe3-8138-28a047ae0d75")
+		)
+		(pin "4"
+			(uuid "7a38c8c1-aefa-44d1-b6bd-848d2b6bf612")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "HALL11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:VCC")
+		(at 280.67 344.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b7a170a1-1c2f-49a3-a118-705774635277")
+		(property "Reference" "#SUPPLY09"
+			(at 280.67 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 279.654 340.614 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:"
+			(at 280.67 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 280.67 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 280.67 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d4f2589c-5b49-4226-9363-9ce9e2ed5524")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "#SUPPLY09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:GND")
+		(at 317.5 422.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bd663f8d-6309-4fed-bec5-6c7517ac3b82")
+		(property "Reference" "#GND015"
+			(at 317.5 422.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 314.96 425.45 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:"
+			(at 317.5 422.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 422.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 317.5 422.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "199c94c3-08e0-41e3-8196-d0989cfc566e")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "#GND015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:CAP0603")
+		(at 166.37 377.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c0b3501a-283f-4edc-bdcf-21007ebc5779")
+		(property "Reference" "C4"
+			(at 167.894 374.269 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "0.1µF"
+			(at 167.894 379.349 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 166.37 377.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 166.37 377.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 166.37 377.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "870f0ec6-2fdd-4bd4-a08b-05920ac02e18")
+		)
+		(pin "2"
+			(uuid "40806afa-348d-4fab-a453-216236484128")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:GND")
+		(at 417.83 447.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c17e3858-5a0a-4656-9a70-e404ae312afc")
+		(property "Reference" "#GND013"
+			(at 417.83 447.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 415.29 449.58 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:"
+			(at 417.83 447.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 417.83 447.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 417.83 447.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "103da9eb-b4d3-4c33-b812-b418a9abbcfd")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "#GND013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:74HC4067SM96")
+		(at 415.29 408.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c188f0a8-376a-4c7b-8502-0b4931e7f740")
+		(property "Reference" "U$2"
+			(at 407.67 377.825 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "74HC4067SM96"
+			(at 407.67 439.42 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm"
+			(at 415.29 408.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 415.29 408.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 415.29 408.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3a8d5121-e1ee-4771-b9e3-814a5cc24f58")
+		)
+		(pin "10"
+			(uuid "6840407d-13c7-40ad-8931-7d3fe2f47f76")
+		)
+		(pin "11"
+			(uuid "7081124c-35b7-4c39-a367-a8180cd10555")
+		)
+		(pin "12"
+			(uuid "b393972e-dcbe-4bae-9af3-aed31aacb192")
+		)
+		(pin "13"
+			(uuid "7074f7bd-de97-487b-97cb-14a186babfd4")
+		)
+		(pin "14"
+			(uuid "7c06406b-f3bc-4072-985a-13ab2ff2ea27")
+		)
+		(pin "15"
+			(uuid "cd114111-762c-4244-afe9-58e5958f4d25")
+		)
+		(pin "16"
+			(uuid "86dd9bac-2a64-44bf-89ca-2b4ce232e364")
+		)
+		(pin "17"
+			(uuid "bc3c58b3-2fa3-49e3-a750-b0966338d8d8")
+		)
+		(pin "18"
+			(uuid "a7ab479b-f918-48df-bec8-19fd4ee536c1")
+		)
+		(pin "19"
+			(uuid "81286a41-0fa8-46dc-98c8-a4304017419d")
+		)
+		(pin "2"
+			(uuid "6b236d3c-6bf0-4cf7-9f55-b40ecbeb8780")
+		)
+		(pin "20"
+			(uuid "bf5592db-ba64-4cae-97da-6d211bfdebfc")
+		)
+		(pin "21"
+			(uuid "0bd55f34-9d73-489e-be84-ad4ecd042484")
+		)
+		(pin "22"
+			(uuid "b81b739a-4ae1-48ff-80e7-47aa523cbc67")
+		)
+		(pin "23"
+			(uuid "c2961d42-e579-49ce-9464-23b1f14b52a0")
+		)
+		(pin "24"
+			(uuid "1b7f2d6e-8f7f-4c71-badd-4413477f8639")
+		)
+		(pin "3"
+			(uuid "82f25e69-f1dd-4763-af0d-0b78e431eba4")
+		)
+		(pin "4"
+			(uuid "c9c83e13-c2af-4242-bfd2-c34e116f7a24")
+		)
+		(pin "5"
+			(uuid "aad9c39f-71d7-4768-a4ef-e2820855fe05")
+		)
+		(pin "6"
+			(uuid "9780bc07-f67d-48eb-a697-25019f7f558d")
+		)
+		(pin "7"
+			(uuid "cd4cfc97-683f-4646-b2e5-bc8173054c8b")
+		)
+		(pin "8"
+			(uuid "2283c4a7-5bb0-4842-ae78-722b029ba6ec")
+		)
+		(pin "9"
+			(uuid "878dccb1-0853-4a1a-a39d-bee9a3cf29cd")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "U$2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:LED0805")
+		(at 17.78 317.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c3403a7f-8b8b-44e9-b4d4-7a080e054f4e")
+		(property "Reference" "LED2"
+			(at 15.748 321.056 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "GREEN_LED"
+			(at 15.748 323.215 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:CHIPLED_0805"
+			(at 17.78 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 17.78 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 17.78 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "A"
+			(uuid "875639df-991e-4689-8a20-2b3587ff37e0")
+		)
+		(pin "C"
+			(uuid "8c31e5bf-7e9a-4a68-869a-1a1f8d5c073d")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "LED2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:MCP1700T-3302E/TT")
+		(at 187.96 427.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c4361039-0160-4224-ad8a-ba98f1e18f34")
+		(property "Reference" "MCP1700T-3302"
+			(at 175.6156 421.4114 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "MCP1700T-3302E{slash}TT"
+			(at 187.96 427.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:SOT95P237X112-3N"
+			(at 187.96 427.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 187.96 427.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 187.96 427.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3470a7b7-1602-43be-99cd-ef12414f675d")
+		)
+		(pin "2"
+			(uuid "51b31d53-58ea-446a-a712-8930b0fd70ae")
+		)
+		(pin "3"
+			(uuid "caea6b93-5ad0-44d5-86ab-3c5f187d8f3d")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "MCP1700T-3302")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
+		(at 217.17 276.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c5e0ae38-2eb6-453a-ae9f-0b771027f36f")
+		(property "Reference" "HALL6"
+			(at 210.82 268.605 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "JST-4PINTH_STRAIGHT"
+			(at 210.82 284.48 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
+			(at 217.17 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 217.17 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9af503bf-af64-44ae-9ff3-02d891adf3ef")
+		)
+		(pin "2"
+			(uuid "3d636fed-5aaf-443a-b9f4-8b46e349fc3b")
+		)
+		(pin "3"
+			(uuid "dab42673-5f4a-4d03-bee7-4163456656e0")
+		)
+		(pin "4"
+			(uuid "f3b6dc57-a365-4259-b265-8f1bf8c3b04d")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "HALL6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
+		(at 33.02 317.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c7d35be2-543f-4f9d-a3d8-4901d08e1bc8")
+		(property "Reference" "R2"
+			(at 29.21 316.0014 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "100 Ω"
+			(at 29.21 320.802 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 33.02 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 33.02 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "36401fc4-ac03-487c-bf09-244bfc2550cb")
+		)
+		(pin "2"
+			(uuid "91ede289-2b6e-4275-8b00-652e5d7a5f75")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
+		(at 247.65 256.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ca86953d-5f26-4961-b8ae-605ae59d53c5")
+		(property "Reference" "HALL15"
+			(at 241.3 248.285 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "JST-4PINTH_STRAIGHT"
+			(at 241.3 264.16 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
+			(at 247.65 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 247.65 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "53549c39-dcb9-4de2-a4b6-044125e5ae21")
+		)
+		(pin "2"
+			(uuid "7437c8db-d9f8-4055-8e90-ff5300afc1c7")
+		)
+		(pin "3"
+			(uuid "240caa93-814d-4ee1-b591-7e45a6cc7f41")
+		)
+		(pin "4"
+			(uuid "0b7d685e-f20f-4406-afed-1bbd3002b012")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "HALL15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:GND")
+		(at 257.81 326.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cbdc5714-58ea-4062-8983-d6799df65277")
+		(property "Reference" "#GND05"
+			(at 257.81 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 255.27 328.93 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:"
+			(at 257.81 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.81 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 257.81 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "059b7a36-b881-40a8-a4c6-c3ad8182e845")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "#GND05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:STAND-OFF4-40")
+		(at 284.48 254 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cd765423-9e60-4c1d-a736-0342b45a8b7d")
+		(property "Reference" "STANDOFF1"
+			(at 284.48 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "STAND-OFF4-40"
+			(at 284.48 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:STAND-OFF"
+			(at 284.48 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 284.48 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 284.48 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "STANDOFF1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
+		(at 87.63 276.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ce874c77-2970-4c62-a9dc-964f0e3c8b34")
+		(property "Reference" "HALL2"
+			(at 81.28 268.605 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "JST-4PINTH_STRAIGHT"
+			(at 81.28 284.48 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
+			(at 87.63 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 87.63 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 87.63 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "68a42cd6-61a2-4f64-9375-cdf69716a99d")
+		)
+		(pin "2"
+			(uuid "e4e625c6-5ea3-40bd-aad5-9d01cedff030")
+		)
+		(pin "3"
+			(uuid "7ec15a56-8d32-4a7c-a33e-f61df383a356")
+		)
+		(pin "4"
+			(uuid "c3fe62d8-a89a-4d25-8696-f72b7571e297")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "HALL2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
+		(at 360.68 425.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d202657e-6d54-469f-806d-1c20854ac53c")
+		(property "Reference" "R33"
+			(at 359.1814 429.26 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "10k"
+			(at 363.982 429.26 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 360.68 425.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 360.68 425.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 360.68 425.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1ac9e650-7c28-4c19-8e37-2f5909e0ecc9")
+		)
+		(pin "2"
+			(uuid "e2619847-8eca-443f-ad92-35e16e9759d4")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "R33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Timer_RTC:DS3231MZ")
+		(at 298.45 369.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d3d1bf4d-b2ae-494a-86e2-8a6ad300459c")
+		(property "Reference" "U3"
+			(at 300.4694 379.3395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DS3231MZ"
+			(at 300.4694 382.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 298.45 382.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://datasheets.maximintegrated.com/en/ds/DS3231M.pdf"
+			(at 298.45 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "±5ppm, I2C Real-Time Clock SOIC-8"
+			(at 298.45 369.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8c17eba2-23ec-45bc-9867-380092cf5abd")
+		)
+		(pin "2"
+			(uuid "e2075c38-532c-48dc-a02e-50b0e939dd6e")
+		)
+		(pin "3"
+			(uuid "94e2c88e-059a-488b-86b2-1a537564e9cc")
+		)
+		(pin "4"
+			(uuid "1a66b80e-44f2-4a7d-aad3-04b344f74fab")
+		)
+		(pin "5"
+			(uuid "6f018f4e-d4e7-4818-b9a3-517ee2df4f14")
+		)
+		(pin "6"
+			(uuid "1a308f82-60e8-4ed0-be73-37da111aa35d")
+		)
+		(pin "7"
+			(uuid "1037f193-4c97-4f46-829c-64f3dc9f2b35")
+		)
+		(pin "8"
+			(uuid "a9007d39-ae19-46ae-a990-c863f9b58ee1")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:GND")
+		(at 293.37 381 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d5721510-f933-43e3-9ea3-c2053e70fc8e")
+		(property "Reference" "#GND018"
+			(at 293.37 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 290.83 383.54 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:"
+			(at 293.37 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 293.37 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 293.37 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "94420478-3145-4f42-a2a1-70d85c1af5ad")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "#GND018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:GND")
+		(at 80.01 331.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d7889406-6bd1-49da-a706-877ac77f2d43")
+		(property "Reference" "#GND011"
+			(at 80.01 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 77.47 334.01 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:"
+			(at 80.01 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 80.01 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b05005f0-e5e4-4712-b324-c7a3292ab16a")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "#GND011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:PINHD-1X4LOCK")
+		(at 339.09 266.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d88f2cf1-9fa8-4767-9306-cd2186c6eb25")
+		(property "Reference" "OLED0"
+			(at 332.74 258.445 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "PINHD-1X4LOCK"
+			(at 332.74 274.32 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:1X04_LOCK"
+			(at 339.09 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 339.09 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 339.09 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c8ce476c-0de8-4c98-a480-73b14785fae3")
+		)
+		(pin "2"
+			(uuid "bc305dab-4790-4f38-91df-66baf48263a5")
+		)
+		(pin "3"
+			(uuid "c0704e1d-e2b8-4221-ac74-e01945ae99fe")
+		)
+		(pin "4"
+			(uuid "1934829d-65fa-40ab-85b4-43aaf9f02f40")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "OLED0")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:VCC")
+		(at 64.77 354.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dd755874-1687-4b26-865b-0356e69182eb")
+		(property "Reference" "#SUPPLY01"
+			(at 64.77 354.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 63.754 350.774 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "MusselGapeTracker_RevI:"
+			(at 64.77 354.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 354.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 64.77 354.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "187a1270-8e1f-46b9-8e85-b5acb1eb763a")
+		)
+		(instances
+			(project "MusselGapeTracker_RevI"
+				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
+					(reference "#SUPPLY01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MusselGapeTracker_RevI:VCC")
 		(at 62.23 316.23 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20964,7 +20963,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 62.23 316.23 0)
 			(effects
 				(font
@@ -20994,7 +20993,7 @@
 			(uuid "943b94d7-46ce-40e6-a4ed-8993a48d119b")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#SUPPLY06")
 					(unit 1)
@@ -21003,7 +21002,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
+		(lib_id "MusselGapeTracker_RevI:GND")
 		(at 166.37 328.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21029,7 +21028,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 166.37 328.93 0)
 			(effects
 				(font
@@ -21059,7 +21058,7 @@
 			(uuid "1c0f1d42-c81e-4091-a344-8706397bc08c")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#GND012")
 					(unit 1)
@@ -21068,7 +21067,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:AVR_SPI_PRG_6PTH")
+		(lib_id "MusselGapeTracker_RevI:AVR_SPI_PRG_6PTH")
 		(at 337.82 350.52 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21094,7 +21093,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:2X3"
+		(property "Footprint" "MusselGapeTracker_RevI:2X3"
 			(at 337.82 350.52 0)
 			(effects
 				(font
@@ -21139,7 +21138,7 @@
 			(uuid "5e0c9b0e-d9ec-4e03-88e4-7a80e703276e")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "J1")
 					(unit 1)
@@ -21148,7 +21147,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:22-23-2021")
+		(lib_id "MusselGapeTracker_RevI:22-23-2021")
 		(at 259.08 441.96 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21175,7 +21174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:22-23-2021"
+		(property "Footprint" "MusselGapeTracker_RevI:22-23-2021"
 			(at 259.08 441.96 0)
 			(effects
 				(font
@@ -21208,7 +21207,7 @@
 			(uuid "61c970a8-da16-4e7c-9dd4-de83a9d1bb93")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "MOLEX_KK0")
 					(unit 1)
@@ -21217,7 +21216,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:JST-4PINTH_STRAIGHT")
+		(lib_id "MusselGapeTracker_RevI:JST-4PINTH_STRAIGHT")
 		(at 54.61 256.54 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21243,7 +21242,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:JST-PH-4-THM"
+		(property "Footprint" "MusselGapeTracker_RevI:JST-PH-4-THM"
 			(at 54.61 256.54 0)
 			(effects
 				(font
@@ -21282,7 +21281,7 @@
 			(uuid "8a275cc7-8bf2-49c5-87fa-1065b74ac0b7")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "HALL9")
 					(unit 1)
@@ -21291,7 +21290,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
 		(at 140.97 426.72 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21350,7 +21349,7 @@
 			(uuid "1f61d3c8-fa86-43f7-9626-e8b93c071375")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "R28")
 					(unit 1)
@@ -21359,7 +21358,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:GND")
+		(lib_id "MusselGapeTracker_RevI:GND")
 		(at 261.62 398.78 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21385,7 +21384,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:"
+		(property "Footprint" "MusselGapeTracker_RevI:"
 			(at 261.62 398.78 0)
 			(effects
 				(font
@@ -21415,7 +21414,7 @@
 			(uuid "529ec68a-4937-485e-af11-b07259d05ec7")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "#GND08")
 					(unit 1)
@@ -21424,7 +21423,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:STAND-OFF4-40")
+		(lib_id "MusselGapeTracker_RevI:STAND-OFF4-40")
 		(at 278.13 254 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21450,7 +21449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:STAND-OFF"
+		(property "Footprint" "MusselGapeTracker_RevI:STAND-OFF"
 			(at 278.13 254 0)
 			(effects
 				(font
@@ -21477,7 +21476,7 @@
 			)
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "STANDOFF2")
 					(unit 1)
@@ -21486,7 +21485,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:POWER_JACK_2,1MM")
+		(lib_id "MusselGapeTracker_RevI:POWER_JACK_2,1MM")
 		(at 260.35 427.99 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21512,7 +21511,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MusselGapeTracker_RevE:POWER_JACK_DC_2,1MM"
+		(property "Footprint" "MusselGapeTracker_RevI:POWER_JACK_DC_2,1MM"
 			(at 260.35 427.99 0)
 			(effects
 				(font
@@ -21548,7 +21547,7 @@
 			(uuid "bfc48a5a-37a8-42f3-a9d9-5888efefb3fa")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "UNK2,1MM_JACK0")
 					(unit 1)
@@ -21557,7 +21556,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MusselGapeTracker_RevE-eagle-import:RESISTOR_SMDR0603")
+		(lib_id "MusselGapeTracker_RevI:RESISTOR_SMDR0603")
 		(at 280.67 350.52 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21616,7 +21615,7 @@
 			(uuid "3d2a1970-e858-4688-9f5b-156fe8510a9f")
 		)
 		(instances
-			(project "MusselGapeTracker_RevH"
+			(project "MusselGapeTracker_RevI"
 				(path "/16a6d501-f88c-4776-88ce-bd33e196cf14"
 					(reference "R9")
 					(unit 1)

@@ -1,4 +1,4 @@
-25774572052210076
+25673351938422939
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70678,650 +70678,251 @@ threaded screw
 0
 4
 1
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 1X01_SMALL
 0.035" (0.89 mm) diameter drill, 0.055" (1.397mm) copper diameter<br>{return}This hole should be barely large enough for standard 0.1" pitch header pins.
 
 0
 1
 1
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 1X04_LOCK
 0.035" drills, 0.056" pad width<br>{return}Staggered holes to help hold header in position while soldering.
 
 0
 4
 4
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 1X06-RIGHT_ANGLE
 1x06 0.1" spacing right angle header<p>{return}Example: Sullins PPPC061LGBN-RC, Digikey PN S5481-ND
 
 0
 6
 6
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 2X2_1.5MM
 2X2 header 1.5mm pitch<p>{return}0.8mm drill
 
 0
 4
 4
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 2X3
 ISP programming header for Arduino<br>{return}Keepout area gives approximate footprint of connector from AVR MKII ISP
 
 0
 6
 6
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 22-23-2021
 .100" (2.54mm) Center Headers - 2 Pin
 
 0
 2
 2
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 0603
 0603 surface mount part
 
 0
 2
 2
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 BATTERY_4XAA_PTH
 Keystone PN 2477<p>{return}4xAA battery holder, plastic housing, through-hole mount.
 
 0
 2
 2
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 CHIPLED_0805
 Surface mount LED 0805 footprint with marker for positive (anode) terminal
 
 0
 2
 2
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 CR1220_BATTERY_HOLDER_SMD
 CR1220 Battery Holder, SMD{return}Keystone Part # 3000
 
 0
 3
 3
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 DO214AC
 DO-214AC footprint
 
 0
 2
 2
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 DS3231M_SOIC8
 Maxim DS3231M real time clock pattern<br>{return}This is the smaller cheaper DS3231M model, vs S model. This version does not have as many square wave output frequencies (just 32.768 kHz and 1Hz).
 
 0
 8
 8
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
+GCT_MEM2052-00-195-00-A_REVA
+
+
+0
+13
+13
+MusselGapeTracker_RevI
 I_0805
 <b>0805 (2012) Inductor footprint<br></b>{return}Example:{return}Taiyo Yuden inductor # LBR2012T100K<br>{return}Digikey PN 587-2045-1-ND
 
 0
 2
 2
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 JST-PH-4-THM
 <b>JST PH series 4-pin male header, shrouded<br></b>{return}JST PN B4B-PH-K-S
 
 0
 4
 4
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 MICROSD_SOCKET_MOLEX_REVERSEMOUNT
 <b>Molex micro SD card slot, push-push spring-loaded style "reverse mount"</b><br>{return}Molex PN 5027740891<br>{return}Digikey PN WM24066CT-ND<br>{return}This version has the surface mount pins easily accessible at the rear of the housing rather than underneath it like most other sockets.
 
 0
 14
 14
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
+Mousebite_0.02in
+
+
+0
+0
+0
+MusselGapeTracker_RevI
+Mousebite_0.02in_x_0.03in_spacing
+
+
+0
+0
+0
+MusselGapeTracker_RevI
 PANASONIC_B
 <b>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package B</b>
 
 0
 2
 2
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 POWER_JACK_DC_2,1MM
 2.1 mm DC power jack. Digikey PN CP-202AH-ND
 
 0
 3
 3
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 PUSHBUTTON_DPST_SMD
 PUSHBUTTON Omron B3S-1000 SMD DPST
 
 0
 4
 4
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 PUSHBUTTON_SPST_PTS525_SERIES
 C&K PTS525 series tactile switch<br>{return}Small surface mount switches
 
 0
 4
 4
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 R0603
 <b>RESISTOR</b><p>{return}chip 0603 size
 
 0
 2
 2
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 SJ_2S-TRACE
 Solder jumper, small, shorted with trace. No paste layer. Trace is cuttable.
 
 0
 2
 2
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 SO16
 <b>Small Outline package</b> 150 mil
 
 0
 16
 16
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+MusselGapeTracker_RevI
+SOIC127P1032X265-16N
+
+
+0
+16
+16
+MusselGapeTracker_RevI
 SOT23
 <b>SOT-23</b>
 
 0
 3
 3
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 SOT23-3
 SOT23-3 package<br>{return}Pad size 0.8 x 0.9mm
 
 0
 3
 3
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 SOT95P237X112-3N
 
 
 0
 3
 3
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 SSOP24
 TSSOP-24 or SSOP-24<p>{return}0.65mm between pad centers, 0.348mm pad width x 1.397mm pad length<br>{return}7.312mm between pad centers across body <br>(appropriate for body width of 5.03mm/0.209")
 
 0
 24
 24
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 STAND-OFF
 <b>Stand Off</b><p>{return}This is the mechanical footprint for a #4 phillips button head screw. Use the keepout ring to avoid running the screw head into surrounding components. SKU : PRT-00447{return}Outer keepout is 0.127" radius (0.254" diameter).
 
 0
 0
 0
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 STAND-OFF_M2
 M2 stand-off hole<p>{return}Drill diam = 2.2mm <br>{return}Outer keepout diameter = 3.175mm (0.125")
 
 0
 0
 0
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 TQFP32-08
 <B>Thin Plasic Quad Flat Package</B> Grid 0.8 mm
 
 0
 32
 32
-MusselGapeTracker_RevE
+MusselGapeTracker_RevI
 TSOT-23_5-LEAD
 
 
 0
 5
 5
-MusselGapeTracker_RevF_lib
-1X01_SMALL
-0.035" (0.89 mm) diameter drill, 0.055" (1.397mm) copper diameter<br>{return}This hole should be barely large enough for standard 0.1" pitch header pins.
-
-0
-1
-1
-MusselGapeTracker_RevF_lib
-1X04_LOCK
-0.035" drills, 0.056" pad width<br>{return}Staggered holes to help hold header in position while soldering.
-
-0
-4
-4
-MusselGapeTracker_RevF_lib
-1X06-RIGHT_ANGLE
-1x06 0.1" spacing right angle header<p>{return}Example: Sullins PPPC061LGBN-RC, Digikey PN S5481-ND
-
-0
-6
-6
-MusselGapeTracker_RevF_lib
-2X2_1.5MM
-2X2 header 1.5mm pitch<p>{return}0.8mm drill
-
-0
-4
-4
-MusselGapeTracker_RevF_lib
-2X3
-ISP programming header for Arduino<br>{return}Keepout area gives approximate footprint of connector from AVR MKII ISP
-
-0
-6
-6
-MusselGapeTracker_RevF_lib
-22-23-2021
-.100" (2.54mm) Center Headers - 2 Pin
-
-0
-2
-2
-MusselGapeTracker_RevF_lib
-0603
-0603 surface mount part
-
-0
-2
-2
-MusselGapeTracker_RevF_lib
-CHIPLED_0805
-Surface mount LED 0805 footprint with marker for positive (anode) terminal
-
-0
-2
-2
-MusselGapeTracker_RevF_lib
-CR1220_BATTERY_HOLDER_SMD
-CR1220 Battery Holder, SMD{return}Keystone Part # 3000
-
-0
-3
-3
-MusselGapeTracker_RevF_lib
-GCT_MEM2052-00-195-00-A_REVA
-
-
-0
-13
-13
-MusselGapeTracker_RevF_lib
-I_0805
-<b>0805 (2012) Inductor footprint<br></b>{return}Example:{return}Taiyo Yuden inductor # LBR2012T100K<br>{return}Digikey PN 587-2045-1-ND
-
-0
-2
-2
-MusselGapeTracker_RevF_lib
-JST-PH-4-THM
-<b>JST PH series 4-pin male header, shrouded<br></b>{return}JST PN B4B-PH-K-S
-
-0
-4
-4
-MusselGapeTracker_RevF_lib
-MICROSD_SOCKET_MOLEX_REVERSEMOUNT
-<b>Molex micro SD card slot, push-push spring-loaded style "reverse mount"</b><br>{return}Molex PN 5027740891<br>{return}Digikey PN WM24066CT-ND<br>{return}This version has the surface mount pins easily accessible at the rear of the housing rather than underneath it like most other sockets.
-
-0
-14
-14
-MusselGapeTracker_RevF_lib
-Mousebite_0.02in
-
-
-0
-0
-0
-MusselGapeTracker_RevF_lib
-Mousebite_0.02in_x_0.03in_spacing
-
-
-0
-0
-0
-MusselGapeTracker_RevF_lib
-PANASONIC_B
-<b>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package B</b>
-
-0
-2
-2
-MusselGapeTracker_RevF_lib
-POWER_JACK_DC_2,1MM
-2.1 mm DC power jack. Digikey PN CP-202AH-ND
-
-0
-3
-3
-MusselGapeTracker_RevF_lib
-PUSHBUTTON_DPST_SMD
-PUSHBUTTON Omron B3S-1000 SMD DPST
-
-0
-4
-4
-MusselGapeTracker_RevF_lib
-PUSHBUTTON_SPST_PTS525_SERIES
-C&K PTS525 series tactile switch<br>{return}Small surface mount switches
-
-0
-4
-4
-MusselGapeTracker_RevF_lib
-R0603
-<b>RESISTOR</b><p>{return}chip 0603 size
-
-0
-2
-2
-MusselGapeTracker_RevF_lib
-SJ_2S-TRACE
-Solder jumper, small, shorted with trace. No paste layer. Trace is cuttable.
-
-0
-2
-2
-MusselGapeTracker_RevF_lib
-SO16
-<b>Small Outline package</b> 150 mil
-
-0
-16
-16
-MusselGapeTracker_RevF_lib
-SOIC-8_3.9x4.9mm_P1.27mm
-SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOIC SO
-0
-8
-8
-MusselGapeTracker_RevF_lib
-SOIC127P1032X265-16N
-
-
-0
-16
-16
-MusselGapeTracker_RevF_lib
-SOT23
-<b>SOT-23</b>
-
-0
-3
-3
-MusselGapeTracker_RevF_lib
-SOT23-3
-SOT23-3 package<br>{return}Pad size 0.8 x 0.9mm
-
-0
-3
-3
-MusselGapeTracker_RevF_lib
-SOT95P237X112-3N
-
-
-0
-3
-3
-MusselGapeTracker_RevF_lib
-SSOP24
-TSSOP-24 or SSOP-24<p>{return}0.65mm between pad centers, 0.348mm pad width x 1.397mm pad length<br>{return}7.312mm between pad centers across body <br>(appropriate for body width of 5.03mm/0.209")
-
-0
-24
-24
-MusselGapeTracker_RevF_lib
-STAND-OFF
-<b>Stand Off</b><p>{return}This is the mechanical footprint for a #4 phillips button head screw. Use the keepout ring to avoid running the screw head into surrounding components. SKU : PRT-00447{return}Outer keepout is 0.127" radius (0.254" diameter).
-
-0
-0
-0
-MusselGapeTracker_RevF_lib
-STAND-OFF_M2
-M2 stand-off hole<p>{return}Drill diam = 2.2mm <br>{return}Outer keepout diameter = 3.175mm (0.125")
-
-0
-0
-0
-MusselGapeTracker_RevF_lib
-TQFP32-08
-<B>Thin Plasic Quad Flat Package</B> Grid 0.8 mm
-
-0
-32
-32
-MusselGapeTracker_RevH
-1X01_SMALL
-0.035" (0.89 mm) diameter drill, 0.055" (1.397mm) copper diameter<br>{return}This hole should be barely large enough for standard 0.1" pitch header pins.
-
-0
-1
-1
-MusselGapeTracker_RevH
-1X04_LOCK
-0.035" drills, 0.056" pad width<br>{return}Staggered holes to help hold header in position while soldering.
-
-0
-4
-4
-MusselGapeTracker_RevH
-1X06-RIGHT_ANGLE
-1x06 0.1" spacing right angle header<p>{return}Example: Sullins PPPC061LGBN-RC, Digikey PN S5481-ND
-
-0
-6
-6
-MusselGapeTracker_RevH
-2X2_1.5MM
-2X2 header 1.5mm pitch<p>{return}0.8mm drill
-
-0
-4
-4
-MusselGapeTracker_RevH
-2X3
-ISP programming header for Arduino<br>{return}Keepout area gives approximate footprint of connector from AVR MKII ISP
-
-0
-6
-6
-MusselGapeTracker_RevH
-22-23-2021
-.100" (2.54mm) Center Headers - 2 Pin
-
-0
-2
-2
-MusselGapeTracker_RevH
-0603
-0603 surface mount part
-
-0
-2
-2
-MusselGapeTracker_RevH
-CHIPLED_0805
-Surface mount LED 0805 footprint with marker for positive (anode) terminal
-
-0
-2
-2
-MusselGapeTracker_RevH
-CR1220_BATTERY_HOLDER_SMD
-CR1220 Battery Holder, SMD{return}Keystone Part # 3000
-
-0
-3
-3
-MusselGapeTracker_RevH
-GCT_MEM2052-00-195-00-A_REVA
-
-
-0
-13
-13
-MusselGapeTracker_RevH
-I_0805
-<b>0805 (2012) Inductor footprint<br></b>{return}Example:{return}Taiyo Yuden inductor # LBR2012T100K<br>{return}Digikey PN 587-2045-1-ND
-
-0
-2
-2
-MusselGapeTracker_RevH
-JST-PH-4-THM
-<b>JST PH series 4-pin male header, shrouded<br></b>{return}JST PN B4B-PH-K-S
-
-0
-4
-4
-MusselGapeTracker_RevH
-MICROSD_SOCKET_MOLEX_REVERSEMOUNT
-<b>Molex micro SD card slot, push-push spring-loaded style "reverse mount"</b><br>{return}Molex PN 5027740891<br>{return}Digikey PN WM24066CT-ND<br>{return}This version has the surface mount pins easily accessible at the rear of the housing rather than underneath it like most other sockets.
-
-0
-14
-14
-MusselGapeTracker_RevH
-Mousebite_0.02in
-
-
-0
-0
-0
-MusselGapeTracker_RevH
-Mousebite_0.02in_x_0.03in_spacing
-
-
-0
-0
-0
-MusselGapeTracker_RevH
-PANASONIC_B
-<b>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package B</b>
-
-0
-2
-2
-MusselGapeTracker_RevH
-POWER_JACK_DC_2,1MM
-2.1 mm DC power jack. Digikey PN CP-202AH-ND
-
-0
-3
-3
-MusselGapeTracker_RevH
-PUSHBUTTON_DPST_SMD
-PUSHBUTTON Omron B3S-1000 SMD DPST
-
-0
-4
-4
-MusselGapeTracker_RevH
-PUSHBUTTON_SPST_PTS525_SERIES
-C&K PTS525 series tactile switch<br>{return}Small surface mount switches
-
-0
-4
-4
-MusselGapeTracker_RevH
-R0603
-<b>RESISTOR</b><p>{return}chip 0603 size
-
-0
-2
-2
-MusselGapeTracker_RevH
-SJ_2S-TRACE
-Solder jumper, small, shorted with trace. No paste layer. Trace is cuttable.
-
-0
-2
-2
-MusselGapeTracker_RevH
-SO16
-<b>Small Outline package</b> 150 mil
-
-0
-16
-16
-MusselGapeTracker_RevH
-SOIC-8_3.9x4.9mm_P1.27mm
-SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOIC SO
-0
-8
-8
-MusselGapeTracker_RevH
-SOIC127P1032X265-16N
-
-
-0
-16
-16
-MusselGapeTracker_RevH
-SOT23
-<b>SOT-23</b>
-
-0
-3
-3
-MusselGapeTracker_RevH
-SOT23-3
-SOT23-3 package<br>{return}Pad size 0.8 x 0.9mm
-
-0
-3
-3
-MusselGapeTracker_RevH
-SOT95P237X112-3N
-
-
-0
-3
-3
-MusselGapeTracker_RevH
-SSOP24
-TSSOP-24 or SSOP-24<p>{return}0.65mm between pad centers, 0.348mm pad width x 1.397mm pad length<br>{return}7.312mm between pad centers across body <br>(appropriate for body width of 5.03mm/0.209")
-
-0
-24
-24
-MusselGapeTracker_RevH
-STAND-OFF
-<b>Stand Off</b><p>{return}This is the mechanical footprint for a #4 phillips button head screw. Use the keepout ring to avoid running the screw head into surrounding components. SKU : PRT-00447{return}Outer keepout is 0.127" radius (0.254" diameter).
-
-0
-0
-0
-MusselGapeTracker_RevH
-STAND-OFF_M2
-M2 stand-off hole<p>{return}Drill diam = 2.2mm <br>{return}Outer keepout diameter = 3.175mm (0.125")
-
-0
-0
-0
-MusselGapeTracker_RevH
-TQFP32-08
-<B>Thin Plasic Quad Flat Package</B> Grid 0.8 mm
-
-0
-32
-32
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
