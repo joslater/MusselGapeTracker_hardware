@@ -15297,7 +15297,7 @@
 		(uuid "b9e2f2b6-ace3-4c4e-8d8e-83a36332d7cc")
 		(at 107.2474 126.3344 -90)
 		(property "Reference" "SD1"
-			(at -7.925 -6.775 180)
+			(at -7.925 -6.775 0)
 			(layer "F.SilkS")
 			(uuid "dc440b0a-05ad-4dc8-bb1b-53fec7ba2845")
 			(effects
